@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGHACMB:2014:124"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0091"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0091", "PR-Updates.nl 2019-0091"]
 ---
 
 # ECLI:NL:OGHACMB:2014:124 Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba , 21-10-2014 / EJ 66318 - H 79/14
