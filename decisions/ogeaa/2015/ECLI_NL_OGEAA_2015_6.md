@@ -24,9 +24,9 @@ in de zaak tegen de verdachte:
 
 Verdachte,
 
-geboren op 30 juli 1988 in Curaçao,
+geboren op [geboortedatum 1] 1988 in Curaçao,
 
-wonende in Aruba, Vuylstekestraat 27.
+wonende in Aruba, [adres].
 
 1
 Onderzoek van de zaak
@@ -42,7 +42,7 @@ Tenlastelegging
 
 Aan de verdachte is tenlastegelegd:
 
-dat hij op of omstreeks 05 juni 2014 te Aruba met zijn pupil en/of de aan zijn opleiding toevertrouwde minderjarige, geboren op 8 januari 1999, die de leeftijd van twaalf jaren maar nog niet die van zestien jaren had bereikt, buiten echt, ontuchtige handelingen heeft gepleegd, die bestonden uit of mede bestonden uit het seksueel binnendringen van het lichaam van het slachtoffer, hebben hij (verdachte)
+dat hij op of omstreeks 05 juni 2014 te Aruba met zijn pupil en/of de aan zijn opleiding toevertrouwde minderjarige, geboren op [geboortedatum 2] 1999, die de leeftijd van twaalf jaren maar nog niet die van zestien jaren had bereikt, buiten echt, ontuchtige handelingen heeft gepleegd, die bestonden uit of mede bestonden uit het seksueel binnendringen van het lichaam van het slachtoffer, hebben hij (verdachte)
 
 meermalen de vagina van het slachtoffer betast, en/of
 
@@ -80,7 +80,7 @@ Bewezenverklaring
 
 Het gerecht heeft uit het onderzoek op de terechtzitting door de inhoud van wettige bewijsmiddelen de overtuiging bekomen dat de verdachte het tenlastegelegde heeft begaan, met dien verstande dat het bewezen acht:
 
-dat hij op of omstreeks 5 juni 2014 te Aruba met zijn pupil en/of de aan zijn opleiding toevertrouwde minderjarige, te weten het slachtoffer, geboren op 8 januari 1999, die de leeftijd van twaalf jaren maar nog niet die van zestien jaren had bereikt, buiten echt, ontuchtige handelingen heeft gepleegd, die bestonden uit of mede bestonden uit het seksueel binnendringen van het lichaam van het slachtoffer, hebben hij (verdachte)
+dat hij op of omstreeks 5 juni 2014 te Aruba met zijn pupil en/of de aan zijn opleiding toevertrouwde minderjarige, te weten het slachtoffer, geboren op [geboortedatum 2] 1999, die de leeftijd van twaalf jaren maar nog niet die van zestien jaren had bereikt, buiten echt, ontuchtige handelingen heeft gepleegd, die bestonden uit of mede bestonden uit het seksueel binnendringen van het lichaam van het slachtoffer, hebben hij (verdachte)
 
 meermalen de vagina van het slachtoffer betast, en/of
 
