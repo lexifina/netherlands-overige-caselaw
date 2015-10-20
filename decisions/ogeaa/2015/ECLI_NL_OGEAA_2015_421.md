@@ -1,0 +1,84 @@
+---
+ecli: "ECLI:NL:OGEAA:2015:421"
+court: "Gerecht in Eerste Aanleg van Aruba"
+court_code: "OGEAA"
+docket: "EJ nr. 1975 van 2015"
+decided: "2015-10-20"
+published: "2015-10-26"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Civiel recht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2015:421"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:OGEAA:2015:421 Gerecht in Eerste Aanleg van Aruba , 20-10-2015 / EJ nr. 1975 van 2015
+
+## Inhoudsindicatie
+
+personen en familierecht, minderjarige moeder, voogdijvoorziening
+
+## Uitspraak
+
+Beschikking van 20 oktober 2015
+
+behorend bij EJ nr. 1975 van 2015.
+
+GERECHT IN EERSTE AANLEG VAN ARUBA
+
+BESCHIKKING
+
+op het verzoek van
+
+DE VOOGDIJRAAD,
+
+kantoorhoudend in Aruba,
+
+VERZOEKER,
+
+vertegenwoordigd.
+
+Belanghebbenden:
+
+A, de minderjarige,
+
+B, de moeder,
+
+C, de grootmoeder moederszijde tevens voorgestelde ,
+
+allen wonend in Aruba.
+
+1
+DE PROCEDURE
+
+De procedure blijkt uit:
+
+- het verzoekschrift ingediend op 3 september 2015.
+
+De uitspraak is bepaald op heden.
+
+2
+DE FEITEN
+
+Op [geboortedatum] is in Aruba uit de moeder geboren: A (hierna: de minderjarige). De moeder is geboren op [geboortedatum] in Aruba. De minderjarige is
+
+3
+HET VERZOEK
+
+Het verzoek strekt tot het belasten van C met  over de minderjarige. Daartoe wordt gesteld dat de minderjarige thans gezagloos is en  belang vordert dat in het gezag over  wordt voorzien.
+
+4
+DE BEOORDELING
+
+Nu de moeder minderjarig is, is zij onbevoegd om het ouderlijk gezag uit te oefenen en dient in het gezag over haar kind te worden voorzien. De voorgestelde heeft zich bereid verklaard de voogdij over de minderjarige op zich te nemen. De  in met de benoeming van haar moeder tot  over  kind. Nu voor het overige niet van bezwaren daartegen is gebleken, zal het verzoek worden toegewezen.
+
+5
+DE BESLISSING
+
+Het gerecht:
+
+benoemt C tot  over A, geboren op [geboortedatum] in Aruba,
+
+verklaart deze beschikking uitvoerbaar bij voorraad.
+
+Deze beschikking is gegeven op dinsdag 20 oktober 2015 door mr. W.C.E. Winfield, rechter bij dit gerecht, in tegenwoordigheid van de griffier.
