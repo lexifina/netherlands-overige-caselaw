@@ -107,7 +107,7 @@ DE STANDPUNTEN VAN PARTIJEN
 
 3.1
 
-Naam c.s. vorderen voor zich en in hun functie van wettelijk vertegenwoordiger van de minderjarige Sofia Naam verklaring voor recht dat Gedaagde onrechtmatig jegens Naam c.s. heeft gehandeld met – uitvoerbaar bij voorraad – veroordeling van Gedaagde en New India, tot het maximum beloop van de verzekering, tot betaling van de schade, nader op te maken bij staat, met veroordeling van Gedaagde c.s. tot vergoeding van de proceskosten.
+Naam c.s. vorderen voor zich en in hun functie van wettelijk vertegenwoordiger van de minderjarige [minderjarige] verklaring voor recht dat Gedaagde onrechtmatig jegens Naam c.s. heeft gehandeld met – uitvoerbaar bij voorraad – veroordeling van Gedaagde en New India, tot het maximum beloop van de verzekering, tot betaling van de schade, nader op te maken bij staat, met veroordeling van Gedaagde c.s. tot vergoeding van de proceskosten.
 
 3.2
 
