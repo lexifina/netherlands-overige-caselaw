@@ -1,0 +1,86 @@
+---
+ecli: "ECLI:NL:OGEAA:2016:676"
+court: "Gerecht in Eerste Aanleg van Aruba"
+court_code: "OGEAA"
+docket: "EJ nr. 1694 van 2016"
+decided: "2016-10-04"
+published: "2016-10-10"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Civiel recht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2016:676"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:OGEAA:2016:676 Gerecht in Eerste Aanleg van Aruba , 04-10-2016 / EJ nr. 1694 van 2016
+
+## Inhoudsindicatie
+
+EJ. Voogdijvoorziening.
+
+## Uitspraak
+
+Beschikking van 4 oktober 2016
+
+behorend bij EJ nr. 1694 van 2016.
+
+GERECHT IN EERSTE AANLEG VAN ARUBA
+
+BESCHIKKING
+
+op het verzoek van
+
+DE VOOGDIJRAAD,
+
+kantoorhoudend in Aruba,
+
+VERZOEKER,
+
+vertegenwoordigd.
+
+Belanghebbenden:
+
+A, de minderjarige,
+
+X, de moeder,
+
+Y, de vader,
+
+Z, de grootmoeder moederszijde tevens voorgestelde voogdes,
+
+allen wonend in Aruba.
+
+1
+DE PROCEDURE
+
+De procedure blijkt uit:
+
+- het verzoekschrift ingediend op 13 juli 2016.
+
+De uitspraak is bepaald op heden.
+
+2
+DE FEITEN
+
+Op [geboortedatum] 2016 is in Aruba uit de moeder geboren: A (hierna: de minderjarige). De moeder is geboren op [geboortedatum] 2000 in Aruba. De minderjarige is op [datum erkenning] 2016 door de vader erkend.
+
+3
+HET VERZOEK
+
+Het verzoek strekt tot het belasten van Z met de voogdij over de minderjarige. Daartoe wordt gesteld dat de minderjarige thans gezagloos is en haar belang vordert dat in het gezag over haar wordt voorzien.
+
+4
+DE BEOORDELING
+
+Nu de moeder minderjarig is, is zij onbevoegd om het ouderlijk gezag uit te oefenen en dient in het gezag over haar kind te worden voorzien. De voorgestelde voogdes heeft zich bereid verklaard de voogdij over de minderjarige op zich te nemen. De moeder stemt in met de benoeming van haar moeder tot voogdes over haar kind. Nu voor het overige niet van bezwaren daartegen is gebleken, zal het verzoek worden toegewezen.
+
+5
+DE BESLISSING
+
+Het gerecht:
+
+benoemt Z tot voogdes over A, geboren op [geboortedatum] 2016 in Aruba,
+
+verklaart deze beschikking uitvoerbaar bij voorraad.
+
+Deze beschikking is gegeven op 4 oktober 2016 door mr. J. Sap, rechter bij dit gerecht, in tegenwoordigheid van de griffier.
