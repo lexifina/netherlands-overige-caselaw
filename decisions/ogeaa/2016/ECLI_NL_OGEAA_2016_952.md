@@ -1,0 +1,265 @@
+---
+ecli: "ECLI:NL:OGEAA:2016:952"
+court: "Gerecht in Eerste Aanleg van Aruba"
+court_code: "OGEAA"
+docket: "527 van 2016"
+decided: "2016-11-17"
+published: "2017-05-17"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Civiel recht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2016:952"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:OGEAA:2016:952 Gerecht in Eerste Aanleg van Aruba , 17-11-2016 / 527 van 2016
+
+## Inhoudsindicatie
+
+Invoer, vervoer en/of in bezit en aanwezig hebben van ruim 958,9 gram cocaïne. Gevangenisstraf voor de duur van tien (10) dagen; taakstraf, bestaande uit een werkstraf voor de duur van tweehonderdenveertig (240) uren, subsidiair  honderdtwintig (120) uren hechtenis.
+
+## Uitspraak
+
+GERECHT IN EERSTE AANLEG VAN ARUBA
+
+S T R A F V O N N I S
+
+in de zaak tegen de verdachte:
+
+[verdachte],
+
+geboren op [geboortedatum] 1983 te [geboorteplaats],
+
+wonende in [woonplaats], te [adres].
+
+1
+Onderzoek van de zaak
+
+Het onderzoek ter openbare terechtzitting heeft plaatsgevonden op 27 oktober 2016. De verdachte is verschenen, bijgestaan door haar raadsman, mr. P.M.E. Mohamed.
+
+De officier van justitie, mr. E.D. Schwengle, heeft ter terechtzitting gevorderd de verdachte ter zake van het feit te veroordelen tot een gevangenisstraf voor de duur van twaalf maanden, met aftrek van voorarrest.
+
+De raadsman heeft het woord tot verdediging gevoerd.
+
+2
+Tenlastelegging
+
+Aan de verdachte is tenlastegelegd:
+
+dat zij op of omstreeks 30 april 2016 in Aruba, tezamen en in vereniging met een ander of anderen, althans alleen, al dan niet opzettelijk een hoeveelheid cocaïne, zijnde cocaïne een stof als bedoeld in artikel 1, eerste lid van de Landsverordening verdovende middelen of in de Regeling aanwijzing verdovende middelen I, althans enig zout van cocaïne als vorenbedoeld heeft uitgevoerd, al dan niet als bedoeld in artikel 1 lid 3 van de Landsverordening verdovende middelen en/of heeft vervoerd en/of in bezit en/of aanwezig heeft/hebben gehad;
+
+3
+Voorvragen
+
+Geldigheid van de dagvaarding
+
+Bij het onderzoek ter terechtzitting is gebleken dat de dagvaarding aan alle wettelijke vereisten voldoet en dus geldig is.
+
+Bevoegdheid van het gerecht
+
+Krachtens de wettelijke bepalingen is het gerecht bevoegd van het tenlastegelegde kennis te nemen.
+
+Ontvankelijkheid van de officier van justitie
+
+Bij het onderzoek ter terechtzitting zijn geen feiten of omstandigheden gebleken die aan de ontvankelijkheid van de officier van justitie in de weg staan.
+
+Redenen voor schorsing van de vervolging
+
+Bij het onderzoek ter terechtzitting zijn geen redenen voor schorsing van de vervolging gebleken.
+
+4
+Bewijsbeslissingen
+
+Bewezenverklaring
+
+Het gerecht heeft uit het onderzoek op de terechtzitting door de inhoud van wettige bewijsmiddelen de overtuiging bekomen dat de verdachte het tenlastegelegde heeft begaan, met dien verstande dat het bewezen acht:
+
+dat zij op of omstreeks 30 april 2016 in Aruba, tezamen en in vereniging met een ander of anderen, althans alleen, al dan niet opzettelijk een hoeveelheid cocaïne, zijnde cocaïne een stof als bedoeld in artikel 1, eerste lid van de Landsverordening verdovende middelen of in de Regeling aanwijzing verdovende middelen I, althans enig zout van cocaïne als vorenbedoeld heeft uitgevoerd, al dan niet als bedoeld in artikel 1 lid 3 van de Landsverordening verdovende middelen en/of heeft vervoerd en/of in bezit en/of aanwezig heeft/hebben gehad.
+
+Hetgeen meer of anders is ten laste gelegd, zoals doorgestreept in de tekst, is niet bewezen, zodat de verdachte hiervan zal worden vrijgesproken.
+
+5
+Bewijsmiddelen
+
+De overtuiging dat de verdachte het bewezenverklaarde heeft begaan, is gegrond op de feiten en omstandigheden die in de navolgende wettige bewijsmiddelen zijn vervat.
+
+Voor zover de hieronder opgenomen bewijsmiddelen worden aangeduid als ‘bijlage’, betreft het bijlagen bij het proces-verbaal van het Korps Politie Aruba, Divisie Centrale Recherche, Unit Georganiseerde Criminaliteit, proces-verbaalnummer […], in de wettelijke vorm opgemaakt en op 23 mei 2016 gesloten en ondertekend door
+
+[verbalisant 1], respectievelijk brigadier eerste klasse bij voormeld korps.
+
+* Een proces-verbaal, in de wettelijke vorm opgemaakt en op 30 april 2016 gesloten en getekend door [verbalisant 2], Hoofdkommies der Invoerrechten en Accijnzen 1e klasse A, ingedeeld bij de Sectie Douane Recherche en Informatie, voor zover inhoudende, als relaas van die verbalisant, - zakelijk weergegeven -:
+
+Op 30 april 2016 verzocht [collega 1], Hoofdcommies der Invoerrechten en Accijnzen, eveneens ingedeeld bij eerder vermelde sectie, mijn aanwezigheid in het douane-recherchekantoor, gelegen in de aankomsthal van het gebouwencomplex van de luchthaven Aeropuerto International Reina Beatrix.
+
+Aldaar stelde [verbalisant 3] mij in kennis van het volgende:
+
+Op genoemde datum en plaats bevond hij zich samen met collega [collega 2], Hoofdcommies der Invoerrechten en Accijnzen, eveneens ingedeeld bij eerder vermelde sectie, bij de incheckbalie. Daar observeerden beiden de uitgaande passagiers op de vlucht [vluchtnummer] van de luchtvaartmaatschappij [luchtvaartmaatschappij] met bestemming [land van bestemming]. Op genoemde datum zag [collega 1] gedurende een observatie dat een on-bekende man en een vrouw bij voornoemde incheckbalie een zwarte koffer lieten inchecken en dat deze personen heel nerveus waren. [Collega 1] liep deze personen achterna tot in de vertrekhal B en sprak hen aan. Desgevraagd overhandigden deze personen hem hun reisdocumenten en uit hun paspoorten kon [collega 1] het volgende opmaken:
+
+[medeverdachte], geboren op [geboortedatum] 1982 in [geboorteland], paspoortnummer […], Nederlandse nationaliteit;
+
+[verdachte], geboren op [geboortedatum] 1983 in [geboorteland], paspoort-nummer […], Nederlandse nationaliteit.
+
+Op basis van de instapkaarten van de passagiers [medeverdachte] en [verdachte] vernam hij dat deze personen voornemens waren met de vlucht [luchtvaartmaatschappij] [vluchtnummer] naar [land van bestemming] te vertrekken. Vervolgens werden [medeverdachte] en [verdachte]  verzocht om naar het douane-recherchekantoor te gaan. Aldaar wees hij de passagiers [medeverdachte] en [verdachte]  een zwarte koffer, van het merk S.B. met grijze randen, voorzien van een bagagelabel met registratienummer […] ten name van [verdachte]. Desgevraagd deelde [verdachte] mede dat zij bedoelde koffer als ruimbagage had ingecheckt. [verdachte] deelde aan [collega 1] mede dat zij haar ruimbagage persoonlijk had ingepakt. Gedurende de controle en na het ledigen van de koffer voelde [collega 1] dat de drie tasjes die in voorgenoemde koffer zaten, zwaarder wogen dan normaal.
+
+[Collega 1] maakte met behulp van een zakmesje een klein gaatje in één van de tasjes. Bij het uithalen van het zakmesje bleef een witachtige substantie aan het uiteinde kleven.  De genoemde witte substantie werd met de Narco Disposakit nummer 13 op de aanwezigheid van cocaïne getest en hieruit trad een positieve verkleuringsreactie op de aanwezigheid van cocaïne. Op 30 april 2016 heb ik de zwarte koffer met grijze randen met drie tasjes met dubbele wanden inhoudende verdovende middelen in beslag genomen.
+
+* Een proces-verbaal, in de wettelijke vorm opgemaakt en op 30 april 2016 gesloten en getekend door [verbalisant 2], hoofdagent bij het Korps Politie Aruba en als specialist ingedeeld bij de Unit Georganiseerde Criminaliteit, van het verhoor van [verdachte], voor zover inhoudende, als relaas van die verbalisant, - zakelijk weerge-geven -:
+
+Ik krijg [bedrag] per maand. Ik koop ongeveer [bedrag] aan eten per maand.  De rest is voor benzine en andere onkosten die zich voordoen. We gingen op vakantie naar [land van bestemming]. Hierna wilden we de [waterval] gaan zien. Bij onze aankomst zouden wij 1 nacht bij [hotelnaam] verblijven. Hierna zouden wij ergens anders gaan verblijven. Ik had twee namen van hotels bij mij, één was [hotelnaam] en de andere was [hotelnaam]. [Medeverdachte] weet hoeveel wij voor de tickets hadden betaald. Bijna [bedrag] volgens mij. [Medeverdachte] had de tickets betaald. Dat geld hadden wij gespaard. We hadden niet genoeg geld om de kinderen mee te nemen. We zouden een week verblijven. We hadden [bedrag] bij ons. Als die [bedrag]  niet genoeg was, zou ik mijn zusje vragen om ons geld te lenen. We zouden 1 nacht in [hotelnaam] verblijven en vervolgens een ander hotel zoeken en vakantie houden met [bedrag]. [Medeverdachte]  zei tegen mij dat hij geld zou regelen. Ik heb die [bedrag]  gespaard. Ik had dit beetje bij beetje gewisseld bij verschillende chinezen en pompstations. Ik had de dollar voor 1.80 florin gewisseld.
+
+* Een proces-verbaal, in de wettelijke vorm opgemaakt en op 30 april 2016 gesloten en getekend door [verbalisant 3], brigadier bij het Korps Politie Aruba en ingedeeld als rechercheur bij de Unit Georganiseerde Criminaliteit, van het eerste verhoor van [medeverdachte], voor zover inhoudende, als relaas van die verbalisant, - zakelijk weer-gegeven -:
+
+Een vriend van mij kwam bij mij thuis en vroeg me om deze tassen voor een vriend van hem in [land van bestemming] af te geven. Hij is een bekende van mij. We noemen hem [bekende van medeverdachte]. Ik moest de tassen aan iemand bij de luchthaven in [land van bestemming] afgeven. Ik leerde [bekende van medeverdachte] 3 jaar geleden kennen bij Aliansa nobo. Ik sprak enkele dagen geleden met een andere vriend en ik zei tegen die vriend dat ik samen met mijn vrouw op vakantie naar [land van bestemming] zou gaan. Enkele dagen later kwam [bekende van medeverdachte] mij vragen of ik inderdaad naar [land van bestemming] zou gaan. Hij vroeg aan mij of ik een tas voor zijn broer in [land van bestemming] kon brengen. Ik zei oké. Vandaag om 11:00 uur kwam een andere vriend van hem 3 tassen brengen. Ik vroeg waarom 3 tassen. De man zei dat [bekende van medeverdachte]  hem had gestuurd.  Ik ken de man die de 3 tassen had gebracht niet. Ik zei ‘Waw 3? [Bekende van medeverdachte]  zei van 1 tas alleen’. Ik deed de tassen in mijn rolkoffer en even later gingen wij naar de luchthaven. Het hele proces ging normaal. We hadden de rolkoffer ingecheckt en gingen naar boven om in het vliegtuig te stappen. Toen we op het punt waren om de instaptickets te overhandigen om het vliegtuig in te stappen, moesten we met de Douane meegaan. Ons werd toen niet gezegd waarom. We werden naar een kamer gebracht en tegen ons werd gezegd dat er verdovende middelen in ons rolkoffer werd aangetroffen. Ik dacht meteen aan de 3 tassen. Ik wist vanaf het begin dat er iets mis was met die tassen.  Mijn vrouw had de reistickets gekocht. Ik had ongeveer [bedrag] in mijn bezit op het moment dat ik was aangehouden. We zouden 5 á 6 dagen in [land van bestemming] verblijven. Ik weet de naam van het hotel waar we in [land van bestemming]  zouden verblijven niet. We hadden een hotel van tevoren gereserveerd en online betaald.
+
+* Een proces-verbaal, in de wettelijke vorm opgemaakt en op 1 mei 2016 gesloten en getekend door [verbalisant 3], brigadier bij het Korps Politie Aruba en ingedeeld als rechercheur bij de Unit Georganiseerde Criminaliteit, voor zover inhoudende, als relaas van die verbalisant, - zakelijk weergegeven -:
+
+Op 30 april 2016 werd door mij een onderzoek verricht aan een zwarte rolkoffer, behorend aan [medeverdachte]. Gedurende het onderzoek in de rolkoffer werden 3 tassen aangetroffen.
+
+1. Een zwarte schoudertas van het merk Mc G
+
+2. Een groen camouflage kleuren rugtas van het merk Brunotti
+
+3. Een grijs/zwarte ruitenpatroon laptoptas van het merk Vans off the Wall.
+
+Ik, verbalisant, zag dat de 3 tassen leeg waren maar toch zwaar van gewicht waren. Ik zag dat de tassen voorzien waren van dubbele wanden. Ik zag dat in de dubbele wanden transparante vacuüm zakjes in de vorm van de tassen waren aangebracht. Ik zag dat de transparante vacuüm zakjes gevuld waren met een vloeibare witte substantie.
+
+* Een proces-verbaal, in de wettelijke vorm opgemaakt en op 1 mei 2016 gesloten en getekend door [verbalisant 3], brigadier bij het Korps Politie Aruba en ingedeeld als rechercheur bij de Unit Georganiseerde Criminaliteit, voor zover inhoudende, als relaas van die verbalisant, - zakelijk weergegeven -:
+
+Op 1 mei 2016, had ik een onderzoek verricht aan de inhoud van de 3 tassen die in de rolkoffer van [medeverdachte]  werden aangetroffen.
+
+1. Een zwarte schoudertas van het merk Mc G;
+
+2. Een groen camouflage kleuren rugtas van het merk Brunotti;
+
+3. Een grijs/zwarte ruitenpatroon laptoptas van het merk Vans off the Wall.
+
+Willekeurig heb ik vanuit de grijs-zwarte ruitenpatroon laptop tas een transparante vacuüm zakje vanuit één van de wanden eruit gehaald. Na het opensnijden van dit zakje zag ik dat dit zakje een witkleurig vloeibare op cocaïne gelijkende substantie inhield.
+
+Testen
+
+Ik verbalisant had met behulp van een injectienaald een kleine hoeveelheid van het witkleurig vloeibare op cocaïne gelijkende substantie genomen en in een buisje bestemd voor het testen van cocaïne gedaan en vervolgens de zogenaamde fieldtest genomen. Deze test viel positief uit in die zin dat nadat de vloeistof in het buisje in aanraking was gekomen met de witte substantie, deze in een blauwe kleur veranderde, hetgeen de aanwezigheid van cocaïne aanduidt.
+
+* Een proces-verbaal, in de wettelijke vorm opgemaakt en op 4 mei 2016 gesloten en getekend door [verbalisant 1], brigadier bij het Korps Politie Aruba en ingedeeld als generalist bij de Unit Georganiseerde Criminaliteit, van het tweede verhoor van [verdachte], voor zover inhoudende, als relaas van die verbalisant, - zakelijk weergegeven -:
+
+We hebben onze spullen beiden ingepakt. We hadden 1 koffer. Eerst pakte ik mijn spullen in. Daarna pakte hij zijn spullen in. Ik wist helemaal niks van deze tassen.
+
+* Een proces-verbaal, in de wettelijke vorm opgemaakt en op 4 mei 2016 gesloten en getekend door [verbalisant 1], brigadier bij het Korps Politie Aruba en ingedeeld als generalist bij de Unit Georganiseerde Criminaliteit, van het verhoor van [getuige], voor zover inhoudende, als relaas van die verbalisant, - zakelijk weerge-geven -:
+
+De financiële situatie van [verdachte]  is niet goed. De vriend van [verdachte]  werkt niet. Alles komt neer op de bijstand die [verdachte]  als inkomen heeft. [verdachte]  en haar vriend gaan niet goed om met hun geld. [verdachte]  geeft veel geld uit aan sigaretten en Coca Cola. Zij zelf moet haar vriend en 4 kinderen onderhouden. Zelfs ik en mijn vriend die een salaris en slechts 1 kind hebben, komen slechts redelijk goed rond en dat is omdat wij ons hoofd goed gebruiken bij het uitgeven van ons geld. Bij [verdachte]  is dit niet het geval. Ik weet dat die twee ervan houden om geld te lenen. [Medeverdachte]  rookt ook mari-huana. Ongeveer 2 weken geleden had ik contact met [medeverdachte]  via Facebook messenger. [Medeverdachte]  vertelde mij dat hij en [verdachte]  binnenkort een reis moesten maken. [Medeverdachte]  vertelde mij niet waar naartoe. Bij mij kwamen een heleboel vraag-tekens naar boven aangezien ik weet dat [medeverdachte]  niet werkt. Ik vroeg aan [medeverdachte]  hoe hij de vakantie betaald heeft. Hij antwoordde mij dat hij een side job deed om dit te kunnen betalen. Ongeveer 5 maanden geleden vroeg [verdachte]  aan mij of ik iets wilde geven voor haar dochter aangezien ik haar peetmoeder zou worden. [Verdachte]  zei dat zij een reis met de kinderen wilde maken en vroeg of ik een bijdrage zou kunnen geven voor deze reis. Dit was een maand geleden. Ik gaf haar 150 florin. Ze vroeg mij of ik haar kon helpen met de hotelkosten. Ik zei tegen haar dat ik dit niet kon betalen. Ik heb daar geen geld voor en moet zelf voor mijn uitgaven opletten.
+
+* Een proces-verbaal, in de wettelijke vorm opgemaakt en op 18 mei 2016 gesloten en getekend door [verbalisant 1], brigadier bij het Korps Politie Aruba en ingedeeld als rechercheur bij de Unit Georganiseerde Criminaliteit, van het tweede verhoor van [medeverdachte], voor zover inhoudende, als relaas van die verbalisant, - zakelijk weer-gegeven -:
+
+De tas was voor de zus van [bekende van medeverdachte]. [Bekende van medeverdachte]  zei tegen mij dat hij een foto van mij naar zijn zus zou sturen. De zus van [bekende van medeverdachte] zou mij daardoor kunnen herkennen op de luchthaven. Daarom vond ik het raar dat op de dag dat ik de tassen kreeg, ik er 3 kreeg in plaats van 1. Wat ik raar vond was dat de tassen leeg waren en naar baby kamfer rook, een soort menthol lucht.  [Verdachte]  vroeg aan mij of dit te vertrouwen was.
+
+* Een proces-verbaal, in de wettelijke vorm opgemaakt en op 3 mei 2016 gesloten en getekend door [verbalisant 1], brigadier bij het Korps Politie Aruba en ingedeeld als rechercheur bij de Unit Georganiseerde Criminaliteit, voor zover inhoudende, als relaas van die verbalisant, - zakelijk weergegeven -:
+
+Genoemde tassen werden respectievelijk gewaarmerkt middels de cijfers 1, 2, en 3. Hiernaast werden tevens de inbeslaggenomen vacuüm afgesloten transparante plastic zakken inhoudende een witkleurige vloeibare op cocaïne gelijkende substantie gewaar-merkt middels de letters A, B, C, D, E en F.
+
+Genoemde zakken werden middels een geijkte fijnweger gewogen. Uit het boven-staande blijkt het gezamenlijk gewicht van de vacuüm afgesloten transparante plastic zakken inhoudende een witkleurige vloeibare op cocaïne gelijkende substantie 1048 gram betreft.
+
+Opmerking verbalisant: de bovenvermelde gewichten dienen vooralsnog als tentatief te worden beschouwd. Genoemde vacuüm afgesloten zakken zullen naar het landslabora-torium worden verstuurd teneinde het definitieve gewicht vast te stellen.
+
+Verzending monster
+
+Naar aanleiding van een op 3 mei 2016 gevoerde overleg met de toxicoloog van het Korps Politie Aruba, werd besloten dat alle inbeslaggenomen vacuüm afgesloten transparante plastic zakken inhoudende een witkleurige vloeibare op cocaïne gelijkende substantie, naar het Landslaboratorium van Aruba verzonden zullen worden met het verzoek om na te gaan of de inhoud van deze onder de bepaling van de Landsverordening verdovende middelen vallen, alsmede ter bepaling van de respec-tievelijke gewichten. Genoemde zakken zijn voorzien van het opschrift:
+
+“Unit Georg. Crim.”
+
+Zaak 		: Mc G
+
+Mut		: 401504
+
+Zakje(s) 	: A, B, C, D, E, F
+
+Verdachten	: [Medeverdachte] en [verdachte]
+
+Verbal. 	: [verbalisant 1]
+
+* Een geschrift, te weten een rapport van het Landslaboratorium Aruba, op ambtsbelofte opgemaakt en ondertekend door [verbalisant 4], Toxicoloog, op 1 juni 2016, voor zover inhoudende, als bevindingen van genoemde deskundige, - zakelijk weergegeven -:
+
+De 6 plastic zakken met een pasta-achtige substantie gewaarmerkt als A, B, C, D, E, F bevatten cocaïne.
+
+Kenmerk A bevat totaal 221.8 gram cocaïne
+
+Kenmerk B bevat totaal 194.4 gram cocaïne
+
+Kenmerk C bevat totaal 116.5 gram cocaïne
+
+Kenmerk D bevat totaal   92.7 gram cocaïne
+
+Kenmerk E bevat totaal 168.6 gram cocaïne
+
+Kenmerk F bevat totaal 164.9 gram cocaïne.
+
+Bewijsoverwegingen
+
+Medeplegen
+
+Van medeplegen is volgens de Hoge Raad sprake indien er een nauwe en bewuste samenwerking bestaat tussen de dader en een (of meer) ander(en), waarbij de  intellectuele of materiële bijdrage van die dader aan het delict van voldoende gewicht is. Voor medeplegen geldt een dubbel opzetvereiste: het opzet op de onderlinge samen-werking en opzet op de verwezenlijking van het grondfeit. Dit opzet kan vrij globaal zijn; een wat andere afloop en invulling van het grondfeit dan de medepleger voor ogen stond, zit in het opzet van de medepleger ingebakken. Voorts is niet vereist dat de verdachte op de hoogte is van de precieze gedragingen van zijn mededaders (HR 10 april 2007, LJN AZ5713, NJ 2007/224).
+
+Het gerecht is, gelet op de bewijsmiddelen en de geschetste feiten en omstandigheden, van oordeel dat verdachte samen met medeverdachte, voornemens was om cocaïne naar [land van bestemming] te smokkelen. Verdachte was er immers bij toen medeverdachte 3 onbekende tassen met onbestemde inhoud inpakte in zijn koffer en heeft geen onderzoek gedaan naar de inhoud en herkomst hiervan. Zij vroeg zich zelfs af of het wel betrouwbaar was en was zich derhalve van bewust dat het niet zonder risico is goederen van derden mee te vervoeren in je ruimbagage. Aldus heeft verdachte de aanmerkelijke kans aanvaard dat zij samen met medeverdachte betrokken zou zijn bij drugssmokkel. Daar komt bij dat verdachte en medeverdachte met betrekking tot de financiering van hun reis naar [land van bestemming] geen aannemelijke verklaring hebben afgelegd. Verdachte en medeverdachte beschikten slechts over USD [bedrag] zakgeld, terwijl zij de eerste nacht zouden doorbrengen in een hotel dat USD [bedrag]  per nacht kostte. De verklaring van verdachte dat zij hiervoor al enige tijd spaarde van haar onderstandsuitkering, acht het gerecht niet aannemelijk. Verdachte en medeverdachte hebben samen vier kinderen die zij moeten onderhouden en medeverdachte heeft geen vast werk. Voorts is opmerkelijk dat verdachte en medeverdachte niet hadden nagedacht hoe ver [stad] van de [waterval] aflag, hoe zij daar zouden komen, waar zij zouden overnachten en wat dit allemaal zou kunnen kosten, gelet op hun bescheiden budget. Bovendien is de verklaring van verdachte dat zij een beroep zou kunnen doen op haar zus in strijd met de waarheid, nu getuige [getuige] heeft verklaard dat zij niet in staat was verdachte financieel te ondersteunen. Gelet op de geschetste feiten en omstandigheden heeft het gerecht de overtuiging bekomen dat verdachte en medeverdachte voornemens waren om cocaïne  naar [land van bestemming] te smokkelen. Het gerecht concludeert dat verdachte en medeverdachte de reis samen en in onderling overleg hebben gepland en dat er sprake was van  bewuste en nauwe samenwerking. De rol van verdachte acht het gerecht kleiner dan die van medeverdachte. Het was immers medeverdachte die de contacten onderhield en de drugstassen in ontvangst heeft genomen.
+
+6
+Kwalificatie en strafbaarheid van het bewezenverklaarde
+
+Het bewezenverklaarde levert op:
+
+Medeplegen van opzettelijk handelen in strijd met artikel 3, eerste lid, onder A, B en C, van de Landsverordening verdovende middelen,
+
+strafbaar gesteld bij artikel 11 van die Landsverordening jo. artikel 1:123 van het Wetboek van Strafrecht.
+
+Het bewezenverklaarde is strafbaar, nu geen feiten of omstandigheden aannemelijk zijn geworden die de strafbaarheid ervan opheffen of uitsluiten.
+
+7
+Strafbaarheid van de verdachte
+
+De verdachte is strafbaar nu geen feiten of omstandigheden aannemelijk zijn geworden die zijn strafbaarheid opheffen of uitsluiten.
+
+8.
+Oplegging van straf of maatregel
+
+Gelet op de aard en de ernst van het bewezen en strafbaar verklaarde, op de omstandigheden waaronder de verdachte zich daaraan schuldig heeft gemaakt en op de persoon van de verdachte, zoals van één en ander uit het onderzoek ter terechtzitting is gebleken, acht het gerecht na te noemen beslissing passend. Daarbij wordt in het bijzonder het volgende in aanmerking genomen.
+
+Verdachte heeft zich samen met medeverdachte schuldig gemaakt aan de uit- en vervoer alsmede aan het in bezit en aanwezig hebben van een kilo cocaïne. Cocaïne is een voor de gezondheid van personen schadelijke stof. Met betrekking tot de hoeveelheid cocaïne overweegt het gerecht dat dit een aanzienlijke hoeveelheid betreft, welke hoeveelheid van dien aard was dat deze bestemd moet zijn geweest voor de verdere verspreiding en handel. De verspreiding van en handel in cocaïne gaat gepaard met vele andere vormen van criminaliteit, waaronder de door gebruikers gepleegde strafbare feiten ter financiering van hun behoefte aan deze stof. Aruba wenst verschoond te blijven van een slechte reputatie op het gebied van de doorvoer van verdovende middelen.
+
+Gelet op de geringe rol van verdachte, het feit dat zij first offender is en de zorg heeft voor minderjarige kinderen, acht het gerecht een vrijheidsstraf niet opportuun. De op te leggen gevangenisstraf zal gelijk zijn aan de duur van de inverzekeringstelling. Wel acht het gerecht een forse werkstraf op zijn plaats.
+
+9
+Toepasselijke wettelijke voorschriften
+
+De op te leggen straf is mede gegrond op de artikelen 1:13, 1:45, 1:46, 1:47 en 1:62 van het Wetboek van Strafrecht.
+
+10
+Beslissing
+
+Het gerecht:
+
+10.1
+
+verklaart bewezen dat de verdachte het tenlastegelegde feit zoals hierboven bewezen geacht heeft begaan;
+
+10.2
+
+verklaart niet bewezen hetgeen aan de verdachte meer of anders is tenlastegelegd en spreekt verdachte daarvan vrij;
+
+10.3
+
+verklaart het bewezenverklaarde strafbaar en de verdachte hiervoor strafbaar;
+
+10.4
+
+kwalificeert het bewezenverklaarde als hierboven omschreven;
+
+10.5
+
+veroordeelt de verdachte tot een gevangenisstraf voor de duur van tien (10) dagen;
+
+10.6
+
+bepaalt dat de tijd die door de veroordeelde voor de tenuitvoerlegging van deze uitspraak in verzekering is doorgebracht, bij de tenuitvoerlegging van de opgelegde gevangenisstraf in mindering wordt gebracht;
+
+10.7
+
+veroordeelt de verdachte tot een taakstraf, bestaande uit een werkstraf voor de duur van tweehonderdenveertig (240) uren, onder begeleiding en toezicht van de Stichting Reclassering en Jeugdbescherming Aruba, te voltooien binnen één (1) jaar na het onherroepelijk worden van dit vonnis. Bij het niet naar behoren verrichten van deze taakstraf zal vervangende hechtenis worden toegepast voor de duur van honderdentwintig (120) uren.
+
+Dit vonnis is gewezen door de rechter mr. Y.M. Vanwersch en uitgesproken ter openbare terechtzitting van dit gerecht op 17 november 2016, in tegenwoordigheid van de griffier.
