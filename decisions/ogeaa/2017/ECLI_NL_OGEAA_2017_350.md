@@ -1,0 +1,90 @@
+---
+ecli: "ECLI:NL:OGEAA:2017:350"
+court: "Gerecht in Eerste Aanleg van Aruba"
+court_code: "OGEAA"
+docket: "LAR nr. AUA201700319"
+decided: "2017-05-08"
+published: "2017-05-15"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Bestuursrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2017:350"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:OGEAA:2017:350 Gerecht in Eerste Aanleg van Aruba , 08-05-2017 / LAR nr. AUA201700319
+
+## Inhoudsindicatie
+
+Landsverordening administratieve rechtspraak (Lar) - verzoek voorlopige voorziening ex artikel 54 Lar - uitspraak zonder zitting - het verzoek is evident niet voor inwilliging vatbaar - het verzoek wordt afgewezen.
+
+## Uitspraak
+
+Uitspraak van 8 mei 2017
+
+LAR nr. AUA201700319
+
+GERECHT IN EERSTE AANLEG VAN ARUBA
+
+UITSPRAAK
+
+op het verzoek in de zin van artikel 54 van de
+
+Landsverordening administratieve rechtspraak (Lar) van:
+
+[verzoekster],
+
+wonende in Aruba,
+
+VERZOEKSTER,
+
+gemachtigde: mevrouw V.F. Odor,
+
+gericht tegen:
+
+DE MINISTER VAN RUIMTELIJKE ONTWIKKELING, INFRASTRUCTUUR EN INTEGRATIE,
+
+zetelend in Aruba,
+
+VERWEERDER.
+
+1
+PROCESVERLOOP
+
+Bij beschikking van 27 maart 2017 heeft verweerder afwijzend beschikt op de aanvraag van verzoekster om een vergunning tot tijdelijk verblijf.
+
+Hiertegen heeft verzoekster op 13 april 2017 bij verweerder bezwaar gemaakt.
+
+Op 18 april 2017 heeft zij zich tot het gerecht gewend met het verzoek tot schorsing van de bestreden beschikking dan wel het treffen van een voorlopige voorziening.
+
+Uitspraak is bepaald op heden.
+
+2
+OVERWEGINGEN
+
+2.1
+
+Ingevolge artikel 54, eerste lid, van de Lar, kan, indien krachtens deze landsverordening een bezwaar- of beroepschrift aanhangig is, de indiener daarvan aan het gerecht verzoeken om de bestreden beschikking onderscheidenlijk beslissing op het bezwaarschrift te schorsen op grond, dat de uitvoering daarvan voor betrokkene een onevenredig nadeel met zich zou brengen in verhouding tot het door een onmiddellijke uitvoering daarvan te dienen belang.
+
+Ingevolge het tweede lid van genoemd artikel kan ter voorkoming van nadeel als bedoeld in het eerste lid, op het verzoek van genoemde indiener ook een voorlopige voorziening worden getroffen.
+
+2.2
+
+Hoewel de Lar daarvoor geen uitdrukkelijke grondslag biedt, brengt een redelijke wetstoepassing mee dat in bepaalde gevallen uitspraak op een verzoek om een voorlopige voorziening kan worden gedaan, zonder dat partijen tevoren ter zitting zijn gehoord. Daarvoor kan aanleiding bestaan, indien onverwijlde spoed dit vereist, alsmede in het geval dat het verzoek evident niet-ontvankelijk of niet voor inwilliging vatbaar is, dan wel het verzoek blijk geeft van misbruik van procesrecht.
+
+2.3
+
+Naar het oordeel van het gerecht is het verzoek evident niet voor inwilliging vatbaar. Daartoe wordt overwogen dat vooralsnog niet is gebleken dat verzoekster een voldoende spoedeisend belang heeft bij de door haar verlangde schorsing/voorlopige voorziening. Uit het verzoekschrift blijkt immers dat zij beoogt te bewerkstelligen dat zij de beslissing op het door haar ingediende bezwaarschrift hier te lande mag afwachten. Gesteld noch gebleken is evenwel dat, als gevolg van de bestreden beschikking, ten aanzien van haar verblijf hier te lande op korte termijn bestuurlijke handhaving (door middel van verwijdering of anderszins) dreigt. Bij afwezigheid van een dergelijke dreiging is voor toepassing van artikel 54 van de Lar, zoals door verzoeker verzocht, geen plaats.
+
+2.4
+
+Beslist wordt als volgt.
+
+3
+BESLISSING
+
+De rechter in dit gerecht:
+
+wijst het verzoek af.
+
+Deze beslissing is gegeven door mw. mr. W.C.E. Winfield, rechter in dit gerecht, en werd uitgesproken ter openbare terechtzitting van 8 mei 2017 in aanwezigheid van de griffier.
