@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAC:2017:221"
-published_in: ["Rechtspraak.nl", "PJ 2018/72", "PR-Updates.nl PR-2018-0043"]
+published_in: ["Rechtspraak.nl", "PJ 2018/72", "PR-Updates.nl PR-2018-0043", "PR-Updates.nl 2018-0043"]
 ---
 
 # ECLI:NL:OGEAC:2017:221 Gerecht in eerste aanleg van Curaçao , 06-11-2017 / AR 77524/2016
