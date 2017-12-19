@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Beschikking"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGHACMB:2017:163"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0011"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0011", "PR-Updates.nl 2018-0011"]
 ---
 
 # ECLI:NL:OGHACMB:2017:163 Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba , 19-12-2017 / EJ 674/16 – Ghis: 82664– H 176/17
