@@ -1,0 +1,267 @@
+---
+ecli: "ECLI:NL:OGEAC:2018:198"
+court: "Gerecht in eerste aanleg van Curaçao"
+court_code: "OGEAC"
+docket: "500.00254/17"
+decided: "2018-02-02"
+published: "2018-07-30"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Strafrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAC:2018:198"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:OGEAC:2018:198 Gerecht in eerste aanleg van Curaçao , 02-02-2018 / 500.00254/17
+
+## Inhoudsindicatie
+
+diefstal met geweld, bezit van vuurwapen (2)
+
+## Uitspraak
+
+GERECHT IN EERSTE AANLEG VAN CURAÇAO
+
+S T R A F V O N N I S
+
+in de zaak tegen de verdachte:
+
+[VERDACHTE],
+
+geboren op [geboortedatum] 1995 in [geboorteplaats],
+
+wonende in [woonplaats],thans alhier gedetineerd.
+
+1
+Onderzoek van de zaak
+
+Het onderzoek ter openbare terechtzitting heeft plaatsgevonden op 15 september 2017 en 12 januari 2018. De verdachte is verschenen, bijgestaan door zijn raadsvrouw,
+
+mr. O. Lodowica.
+
+De officier van justitie, mr. I. Out, heeft ter terechtzitting gevorderd de verdachte ter zake van de feiten 1 en 2 te veroordelen tot een gevangenisstraf voor de duur van 5 jaren, met aftrek van voorarrest.
+
+vuurwapen.
+
+De raadsvrouw heeft verweer gevoerd.
+
+2
+Tenlastelegging
+
+Aan de verdachte is tenlastegelegd:
+
+DIEFSTAL MET GEWELD C.Q. AFPERSING TE [BEDRIJF 1]
+
+dat hij op of omstreeks 25 mei 2017, althans in of omstreeks de maand mei 2017 te Curaçao, tezamen en in vereniging met een ander of anderen, althans alleen, met het oogmerk van wederrechtelijke toe-eigening heeft weggenomen,
+
+ een of meerdere geldbedrag(en) (ter waarde van om en nabij NAF. 900-,) en/of,
+
+ een of meerdere opwaardeerkaart(en),
+
+in elk geval enig goed, geheel of ten dele toebehorende aan [SLACHTOFFER 1], in elk geval aan een ander of anderen dan aan hem verdachte en/of zijn mededader(s), welke diefstal werd voorafgegaan en/of vergezeld en/of gevolgd van geweld en/of bedreiging met geweld tegen die [SLACHTOFFER 1], gepleegd met het oogmerk om die diefstal voor te bereiden en/of gemakkelijk te maken en/of om bij betrapping op heterdaad aan zichzelf en/of aan zijn mededader(s) hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren,
+
+welk geweld en/of welke bedreiging met geweld bestond(en) uit,
+
+ het gemaskerd en gewapend binnendringen van het restaurant (annex woning) en/of de woning van die [SLACHTOFFER 1], en/of,
+
+ het (dreigend) met (een) mes en/of (vuur)wapen in handen richting die [SLACHTOFFER 1] komen aanrennen, en/of,
+
+ het plaatsen van een mes tegen de hals en/of nek van die [SLACHTOFFER 1], en/of,
+
+ het (vervolgens) die [SLACHTOFFER 1] op de grond gooien en/of vloer slepen, en/of,
+
+ (vervolgens) het een en/of meerdere malen slaan met gebalde vuisten en/of vlakke handen en/of schoppen aan/tegen het lichaam van die [SLACHTOFFER 1], en/of,
+
+ het trachtten te wurgen van die [SLACHTOFFER 1], en/of,
+
+ het plaatsen van een vuurwapen tegen het hoofd, althans het lichaam, van die [SLACHTOFFER 1] en/of,
+
+en/of
+
+dat hij op of omstreeks 25 mei 2017, althans in of omstreeks de maand mei 2017 te Curaçao, tezamen en in vereniging met een ander of anderen, althans alleen, met het oogmerk om zich en/of (een) ander(en) wederrechtelijk te bevoordelen door geweld en/of bedreiging met geweld [SLACHTOFFER 1] heeft gedwongen tot de afgifte van,
+
+ een of meerdere geldbedrag(en) (ter waarde van om en nabij NAF. 900,-), en/of,
+
+ een of meerdere opwaardeerkaart(en),
+
+in elk geval van enig goed, geheel of ten dele toebehorende aan [SLACHTOFFER 1], in elk geval aan een ander of anderen dan aan verdachte, en/of zijn mededader(s), welk geweld en/of welke bedreiging met geweld hierin bestond(en) dat verdachte en/of diens mededader(s),
+
+ het gemaskerd en gewapend binnendringen van het restaurant (annex woning) en/of de woning van die [SLACHTOFFER 1], en/of,
+
+ het (dreigend) met (een) mes en/of (vuur)wapen in handen richting die [SLACHTOFFER 1] komen aanrennen, en/of,
+
+ het plaatsen van een mes tegen de hals en/of nek van die [SLACHTOFFER 1], en/of,
+
+ het (vervolgens) die [SLACHTOFFER 1] op de grond gooien en/of vloer slepen, en/of,
+
+ (vervolgens) het een en/of meerdere malen slaan met gebalde vuisten en/of vlakke handen en/of schoppen aan/tegen het lichaam van die [SLACHTOFFER 1], en/of,
+
+ het trachtten te wurgen van die [SLACHTOFFER 1], en/of,
+
+ het plaatsen van een vuurwapen tegen het hoofd, althans het lichaam, van die [SLACHTOFFER 1] 	en/of,
+
+FEIT 2:
+
+BEZIT VUURWAPEN
+
+dat hij op of omstreeks de periode van 25 mei 2017 tot en met 27 mei 2017, althans in of omstreeks de maand mei 2017 te Curaçao, tezamen en in vereniging met een ander of anderen, althans alleen, een of meerdere vuurwapen(s), in de zin van de Vuurwapenverordening 1930, voorhanden heeft gehad.
+
+3
+Voorvragen
+
+Het Gerecht heeft vastgesteld dat de dagvaarding geldig is, dat het bevoegd is tot kennisneming van de zaak, dat het openbaar ministerie ontvankelijk is in zijn vervolging en dat er geen redenen zijn voor schorsing van de vervolging.
+
+4
+Bewijsbeslissingen
+
+4A. Bewezenverklaring
+
+Het Gerecht heeft uit het onderzoek op de terechtzitting door de inhoud van wettige bewijsmiddelen de overtuiging bekomen dat de verdachte de onder 1 en 2 tenlastegelegde feiten heeft begaan, met dien verstande dat het bewezen acht:
+
+FEIT 1
+
+dat hij op of omstreeks 25 mei 2017, althans in of omstreeks de maand mei 2017 te Curaçao, tezamen en in vereniging met een ander of anderen, althans alleen, met het oogmerk van wederrechtelijke toe-eigening heeft weggenomen,
+
+ een of meerdere geldbedrag(en) (ter waarde van om en nabij NAF. 900-,) en/of,
+
+ een of meerdere opwaardeerkaart(en),
+
+in elk geval enig goed, geheel of ten dele toebehorende aan [SLACHTOFFER 1], in elk geval aan een ander of anderen dan aan hem verdachte en/of zijn mededader(s), welke diefstal werd voorafgegaan en/of vergezeld en/of gevolgd van geweld en/of bedreiging met geweld tegen die [SLACHTOFFER 1], gepleegd met het oogmerk om die diefstal voor te bereiden en/of gemakkelijker te maken en/of om bij betrapping op heterdaad aan zichzelf en/of aan zijn mededader(s) hetzij de vlucht mogelijk te maken, hetzij het bezit van het gestolene te verzekeren,
+
+welk geweld en/of welke bedreiging met geweld bestond(en) uit,
+
+ het gemaskerd en gewapend binnendringen van het restaurant (annex woning) en/of de woning van die [SLACHTOFFER 1], en/of,
+
+ het (dreigend) met (een) mes en/of (vuur)wapen in handen richting die [SLACHTOFFER 1] komen aanrennen, en/of,
+
+ het plaatsen van een mes tegen de hals en/of nek van die [SLACHTOFFER 1], en/of,
+
+ het (vervolgens) die [SLACHTOFFER 1] op de grond gooien en/of vloer slepen, en/of,
+
+ (vervolgens) het een en/of meerdere malen slaan met gebalde vuisten en/of vlakke handen en/of schoppen aan/tegen het lichaam van die [SLACHTOFFER 1], en/of,
+
+ het trachtten te wurgen van die [SLACHTOFFER 1], en/of,
+
+ het plaatsen van een vuurwapen tegen het hoofd, althans het lichaam, van die [SLACHTOFFER 1] 	en/of,
+
+en/of
+
+dat hij op of omstreeks 25 mei 2017, althans in of omstreeks de maand mei 2017 te Curaçao, tezamen en in vereniging met een ander of anderen, althans alleen, met het oogmerk om zich en/of (een) ander(en) wederrechtelijk te bevoordelen door geweld en/of bedreiging met geweld [SLACHTOFFER 1] heeft gedwongen tot de afgifte van,
+
+ een of meerdere geldbedrag(en) (ter waarde van om en nabij                                       NAF. 900,-), en/of,
+
+ een of meerdere opwaardeerkaart(en),
+
+in elk geval van enig goed, geheel of ten dele toebehorende aan [SLACHTOFFER 1], in elk geval aan een ander of anderen dan aan verdachte, en/of zijn mededader(s), welk geweld en/of welke bedreiging met geweld hierin bestond(en) dat verdachte en/of diens mededader(s),
+
+ het gemaskerd en gewapend binnendringen van het restaurant (annex woning) en/of de woning van die [SLACHTOFFER 1], en/of,
+
+ het (dreigend) met (een) mes en/of (vuur)wapen in handen richting die [SLACHTOFFER 1] komen aanrennen, en/of,
+
+ het plaatsen van een mes tegen de hals en/of nek van die [SLACHTOFFER 1], en/of,
+
+ het (vervolgens) die [SLACHTOFFER 1] op de grond gooien en/of vloer slepen, en/of,
+
+ (vervolgens) het een en/of meerdere malen slaan met gebalde vuisten en/of vlakke handen en/of schoppen aan/tegen het lichaam van die      [SLACHTOFFER 1], en/of,
+
+ het trachtten te wurgen van die [SLACHTOFFER 1], en/of,
+
+ het plaatsen van een vuurwapen tegen het hoofd, althans het lichaam, van die [SLACHTOFFER 1] 	en/of,
+
+FEIT 2:
+
+dat hij op of omstreeks de periode van 25 mei 2017 tot en met 27 mei 2017, althans in of omstreeks de maand mei 2017 te Curaçao, tezamen en in vereniging met een ander of anderen, althans alleen, een of meerdere vuurwapen(s), in de zin van de Vuurwapenverordening 1930, voorhanden heeft gehad.
+
+De in de tenlastelegging voorkomende taal- en/of schrijffouten zijn in de bewezenverklaring cursief weergegeven verbeterd. Blijkens het verhandelde ter terechtzitting is de verdachte daardoor niet geschaad in de verdediging.
+
+Hetgeen meer of anders is ten laste gelegd, zoals doorgestreept in de tekst, is niet bewezen, zodat de verdachte hiervan zal worden vrijgesproken.
+
+4B. Bewijsmiddelen
+
+Het Gerecht komt tot bewezenverklaring van de onder 1 en 2 ten laste gelegde feiten op grond van de feiten en omstandigheden die in de navolgende wettige bewijsmiddelen zijn vervat. De door het Gerecht als proces-verbaal aangeduide bewijsmiddelen zijn in de wettelijke vorm opgemaakt door personen die daartoe bevoegd zijn en voldoen ook overigens aan de daaraan bij wet gestelde eisen. Bij onderstaande bewijsmiddelen wordt, tenzij anders vermeld, verwezen naar het einddossier inzake het onderzoek Kibrahacha.
+
+De inhoud van de gebezigde bewijsmiddelen is telkens zakelijk weergegeven.
+
+Het proces-verbaal van aangifte, bijlage 2, p. 4-7, gesloten en getekend door [verbalisant 1], hoofdagent van politie bij het Korps Politie Curaçao, d.d. 26 mei 2017, voor zover inhoudende als verklaring van de aangever [slachtoffer 1]:
+
+Op 25 mei 2017 had ik mijn zaak omstreeks 23:00 uur gesloten. Toen ik met de dagopbrengst, de telefoonkaarten en mijn iPad in mijn handen naar mijn slaapkamer liep, hoorde ik een geluid buiten. Ik plaatste de spullen op mijn bed en liep mijn kamer uit richting het geluid. Toen ik mijn slaapkamer uitliep en richting de garage keek, zag ik dat twee of drie personen met bedekte gezichten in mijn richting aan kwamen rennen. De eerste persoon was in het zwart gekleed en had een mes in zijn hand. Om mezelf te verdedigen gooide ik een stoel in zijn richting. Ik gooide ook alles die ik tegenkwam op de grond om de weg van de mannen te blokkeren. Toen ik op de trap was, voelde ik hoe ik door heel veel personen werd vastgehouden. Een van die personen plaatste een mes tegen mijn nek. Ik werd vervolgens getild en naar boven gebracht door de mannen. Boven werd ik op de grond gegooid en flink geslagen. Ik werd met de vuist geslagen en geschopt. In mijn slaapkamer gingen de mannen door met mij te slaan. Op een gegeven moment zag ik dat deze mannen bezig waren met zoeken in mijn slaapkamer.  Ik zag ook dat een van de mannen die voor mij kwam staan camouflage kleding droeg. Hij plaatste het donkerkleurig vuurwapen dat hij in zijn hand hield tegen mijn hoofd. Hij begon met mij te praten, maar het enige dat ik verstond was “geld”. Vervolgens ging deze man zoeken in de hoek waar ik een doos met flessen alcohol had liggen.  De andere mannen gingen ook door met zoeken. Op een gegeven moment hoorde ik een schot dat van buiten kwam. De mannen begonnen luider met elkaar te praten en renden vervolgens met z’n allen naar buiten. Ik rende de mannen achterna totdat zij over de muur waren gesprongen. Ik hoorde op datzelfde moment  dat er herhalend werd geschoten. De daders hebben ongeveer nafl. 500 of 600 aan dagopbrengst, nafl. 300 aan spaargeld, bestaande uit munten van nafl. 1, nafl. 5 en 10 dollars bestaande uit biljetten van 1 dollar en opwaardeerkaarten meegenomen.
+
+Het proces-verbaal van 2de verhoor verdachte [verdachte]., p. 75-80, gesloten en getekend door [verbalisant 2], hoofdagent van politie, d.d. 2 juni 2017, voor zover inhoudende als verklaring van de verdachte:
+
+Ik hoor u zeggen dat jullie denken dat ik de trainingsbroek expres omgekeerd aanhad, omdat ik wist dat jullie mij aan mijn kleren konden herkennen. U vraagt mij wat ik hierover kan verklaren. Dat is mijn broek. Ik was inderdaad bij die beroving in de nachtelijke uren. Ik ben samen met [medeverdachte 1] (het Gerecht begrijpt: [medeverdachte 1]) en een andere man naar [locatie 1] gegaan. Ik was de bestuurder van de auto die ik had gehuurd. Na de ontmoeting met de twee andere manen, zijn wij de beroving gaan plegen. Wij zaten met ons vijven in de auto. Wij hadden het restaurant beroofd. Ik hoor u zeggen dat u mij gaat confronteren met de video-opname van de beroving op [bedrijf 1] op 25 mei 2017. U vraagt mij wat ik hierover kan verklaren. Ik ben de laatste man die op de video te zien is. Ik ben degene met de zwarte trainingsbroek aan, met de camouflage pet. Na de beroving gingen wij met zijn vijven in de auto. De twee andere mannen heb ik bij een woning in [locatie 1] afgezet. Hierna reed ik samen met [medeverdachte 1] (het Gerecht begrijpt: [medeverdachte 1]) en de man di ook aangehouden werd naar het ziekenhuis.
+
+4C. Bewijsoverweging(en)
+
+Ten aanzien van feit 2
+
+Vaststaat dat tijdens de overval op het Chinese restaurant in [locatie 2] op 25 mei 2017 het slachtoffer met een airsoft gaspistool werd bedreigd. Het Gerecht sluit zich niet aan bij de conclusie van het proces-verbaal forensisch onderzoek naar het in beslag genomen wapen d.d. 9 januari 2018, inhoudende dat het airsoft pistool geen vuurwapen in de zin van de Vuurwapenverordening 1930 is. Immers, volgens een andere conclusie uit genoemd rapport kan dat pistool als een voor bedreiging of afdreiging geschikt voorwerp worden beschouwd en deze conclusie moet, blijkens artikel 1 sub 1 van de Vuurwapenverordening 1930, leiden tot het oordeel dat het airsoft pistool een vuurwapen in de zin van de Vuurwapenverordening 1930 is. Gelet op het voorgaande en de genoemde bewijsmiddelen kan het tenlastegelegde medeplegen van vuurwapenbezit wettig en overtuigend bewezen worden verklaard.
+
+5
+Kwalificatie en strafbaarheid van de feiten
+
+Het bewezenverklaarde levert op:
+
+Feit 1:
+
+diefstal, voorafgegaan en vergezeld van geweld en bedreiging met geweld tegen personen, gepleegd met het oogmerk om die diefstal gemakkelijker te maken;
+
+Feit 2:
+
+overtreding van een verbod, gesteld bij artikel 3, eerste lid, van de Vuurwapenverordening 1930.
+
+Er is geen omstandigheid aannemelijk geworden die de strafbaarheid van het bewezenverklaarde uitsluit. De feiten zijn derhalve strafbaar.
+
+6
+Strafbaarheid van de verdachte
+
+Er is geen omstandigheid aannemelijk geworden die de strafbaarheid van de verdachte opheft of uitsluit. De verdachte is dus strafbaar.
+
+7
+Strafmotivering
+
+Gelet op de aard en de ernst van het bewezen en strafbaar verklaarde, op de omstandigheden waaronder de verdachte zich daaraan schuldig heeft gemaakt en op de persoon van de verdachte, zoals van één en ander uit het onderzoek ter terechtzitting is gebleken, acht het Gerecht na te noemen beslissing passend. Daarbij wordt in het bijzonder het volgende in aanmerking genomen.
+
+Het gaat hier om een gewelddadige overval, gepleegd in vereniging en in een woning, de plek waar mensen zich bij uitstek veilig zouden moeten kunnen voelen. Het slachtoffer is door vijf gemaskerde mannen belaagd en met een vuurwapen en een mes bedreigd. Hij is geslagen en geschopt en van zijn eigendommen beroofd. Van slachtoffers van dit soort geweld is bekend dat de (psychische) gevolgen groot en langdurig kunnen zijn.
+
+Bovendien draagt de overval bij aan een groeiend gevoel van onveiligheid in de maatschappij die de laatste periode regelmatig te kampen heeft gehad met overvallen op onder meer Chinese restaurants. De verdachte is aan de genoemde gevolgen van zijn handelen volledig voorbijgegaan en heeft zich louter laten leiden door zijn streven naar financieel gewin. Dit wordt hem zwaar aangerekend en maakt dat oplegging van een vrijheidsbenemende straf geïndiceerd is. Gelet op de aard en de ernst van de strafbare feiten ligt oplegging van een voorwaardelijke gevangenisstraf of een taakstraf niet in de rede.
+
+Bij de bepaling van de duur van de gevangenisstraf heeft het Gerecht rekening gehouden met de straf die ten aanzien van dit soort strafbare feiten in vergelijkbare gevallen door de rechter pleegt te worden opgelegd. Voorts heeft het Gerecht rekening gehouden met het feit dat de verdachte niet eerder voor vermogens – of geweldsdelicten is veroordeeld.
+
+Het Gerecht ziet in de omstandigheid dat de buurman van het slachtoffer meerdere schoten in de richting van de verdachte en de medeverdachten heeft gelost, met als gevolg dat een medeverdachte is geraakt, geen aanleiding om over te gaan tot het toepassen van een strafvermindering. De verdachte en de medeverdachten hadden zich schuldig gemaakt aan een gewelddadige overval. In plaats van zich over te geven toen zij in de gaten kregen dat zij door de buurman werden betrapt, namen zij de benen. Als reactie daarop loste de buurman, die in het bezit was van een wapenvergunning, meerdere gerichte schoten. De verdachte en de medeverdachten hadden moeten inzien en incalculeren dat hun gedragingen de nodige minder wenselijke gevolgen voor hen met zich zouden kunnen meebrengen.
+
+Alles afwegende kan niet worden volstaan met een andere of lichtere straf dan een gevangenisstraf van na te melden duur.
+
+8
+Beslag
+
+8.1
+
+Onttrekking aan het verkeer
+
+Ten aanzien van het inbeslaggenomen vuurwapen zal onttrekking aan het verkeer worden uitgesproken, omdat het onder 2 tenlastegelegde feit met betrekking tot dat voorwerp is begaan en dit voorwerp van zodanige aard is dat het ongecontroleerde bezit daarvan in strijd is met de wet of het algemeen belang.
+
+9
+Toepasselijke wettelijke voorschriften
+
+De op te leggen straf is, behalve op het reeds aangehaalde artikel, gegrond op de artikelen 1:62, 1:74, 1:75 en 2:291 van het Wetboek van Strafrecht en artikel 11 van de Vuurwapenverordening 1930.
+
+10
+Beslissing
+
+Het Gerecht:
+
+verklaart bewezen dat de verdachte het tenlastegelegde zoals in rubriek 4A omschreven, heeft begaan;
+
+verklaart niet bewezen hetgeen aan de verdachte meer of anders is tenlastegelegd en spreekt verdachte daarvan vrij;
+
+verklaart dat de bewezen verklaarde feiten de in rubriek 5 genoemde strafbare feiten opleveren;
+
+verklaart de verdachte hiervoor strafbaar;
+
+veroordeelt de verdachte wegens deze feiten tot een gevangenisstraf voor de duur van 5 (vijf) jaren;
+
+bepaalt dat de tijd die door de veroordeelde voor de tenuitvoerlegging van deze uitspraak in verzekering en in voorlopige hechtenis is doorgebracht, bij de tenuitvoerlegging van de opgelegde gevangenisstraf in mindering wordt gebracht;
+
+onttrekt aan het verkeer het in rubriek 8 genoemd voorwerp.
+
+Dit vonnis is gewezen door de rechter mr. G. Edelenbos en uitgesproken ter openbare terechtzitting van het Gerecht op 2 februari 2018, in tegenwoordigheid van de griffier.
