@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - meervoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGHACMB:2018:101"
-published_in: ["Rechtspraak.nl", "PJ 2018/151", "PR-Updates.nl PR-2018-0080"]
+published_in: ["Rechtspraak.nl", "PJ 2018/151", "PR-Updates.nl PR-2018-0080", "PR-Updates.nl 2018-0080"]
 ---
 
 # ECLI:NL:OGHACMB:2018:101 Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba , 24-04-2018 / HAR 37/2016
