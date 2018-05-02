@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2018:259"
-published_in: ["Rechtspraak.nl", "PJ 2018/132", "PR-Updates.nl PR-2018-0068"]
+published_in: ["Rechtspraak.nl", "PJ 2018/132", "PR-Updates.nl PR-2018-0068", "PR-Updates.nl 2018-0068"]
 ---
 
 # ECLI:NL:OGEAA:2018:259 Gerecht in Eerste Aanleg van Aruba , 02-05-2018 / K.G. AUA201800931
