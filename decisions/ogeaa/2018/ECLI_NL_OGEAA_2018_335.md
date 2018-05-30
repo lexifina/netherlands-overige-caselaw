@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2018:335"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0082"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0082", "PR-Updates.nl 2018-0082"]
 ---
 
 # ECLI:NL:OGEAA:2018:335 Gerecht in Eerste Aanleg van Aruba , 30-05-2018 / A.R. 459 van 2017 / AUA201700431
