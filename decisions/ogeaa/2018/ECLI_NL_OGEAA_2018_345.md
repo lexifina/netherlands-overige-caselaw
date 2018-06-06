@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2018:345"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0081"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0081", "PR-Updates.nl 2018-0081"]
 ---
 
 # ECLI:NL:OGEAA:2018:345 Gerecht in Eerste Aanleg van Aruba , 06-06-2018 / A.R. no. 1757 van 2016 / AUA201600793
