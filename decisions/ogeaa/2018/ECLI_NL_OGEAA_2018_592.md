@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2018:592"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0136"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2018-0136", "PR-Updates.nl 2018-0136"]
 ---
 
 # ECLI:NL:OGEAA:2018:592 Gerecht in Eerste Aanleg van Aruba , 02-10-2018 / E.J. AUA 201800927
