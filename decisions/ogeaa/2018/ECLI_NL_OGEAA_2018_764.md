@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2018:764"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0015", "FJR 2020/32.18"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0015", "FJR 2020/32.18", "PR-Updates.nl 2019-0015"]
 ---
 
 # ECLI:NL:OGEAA:2018:764 Gerecht in Eerste Aanleg van Aruba , 12-12-2018 / AUA 201801107
