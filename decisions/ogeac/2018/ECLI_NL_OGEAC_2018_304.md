@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAC:2018:304"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0016"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0016", "PR-Updates.nl 2019-0016"]
 ---
 
 # ECLI:NL:OGEAC:2018:304 Gerecht in eerste aanleg van Curaçao , 14-12-2018 / CUR201802850
