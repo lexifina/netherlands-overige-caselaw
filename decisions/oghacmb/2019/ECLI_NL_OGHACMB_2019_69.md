@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGHACMB:2019:69"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0093"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0093", "PR-Updates.nl 2019-0093"]
 ---
 
 # ECLI:NL:OGHACMB:2019:69 Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba , 26-03-2019 / EJ 2703/2015 – AUA201500366 – AUA2017H00101
