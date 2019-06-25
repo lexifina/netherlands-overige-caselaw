@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGHACMB:2019:108"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0094"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0094", "PR-Updates.nl 2019-0094"]
 ---
 
 # ECLI:NL:OGHACMB:2019:108 Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba , 25-06-2019 / CUR201702730 - CUR2018H00088
