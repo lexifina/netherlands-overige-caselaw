@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2019:570"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0128"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0128", "PR-Updates.nl 2019-0128"]
 ---
 
 # ECLI:NL:OGEAA:2019:570 Gerecht in Eerste Aanleg van Aruba , 04-09-2019 / 2017/AUA201702553
