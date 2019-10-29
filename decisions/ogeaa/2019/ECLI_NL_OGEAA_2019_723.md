@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2019:723"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0170"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0170", "PR-Updates.nl 2019-0170"]
 ---
 
 # ECLI:NL:OGEAA:2019:723 Gerecht in Eerste Aanleg van Aruba , 29-10-2019 / AUA201902135
