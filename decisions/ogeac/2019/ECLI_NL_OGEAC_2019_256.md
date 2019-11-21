@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAC:2019:256"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0177"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2019-0177", "PR-Updates.nl 2019-0177"]
 ---
 
 # ECLI:NL:OGEAC:2019:256 Gerecht in eerste aanleg van Curaçao , 21-11-2019 / CUR201903524
