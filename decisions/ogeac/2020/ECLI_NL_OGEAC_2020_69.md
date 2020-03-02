@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAC:2020:69"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0086"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0086", "PR-Updates.nl 2020-0086"]
 ---
 
 # ECLI:NL:OGEAC:2020:69 Gerecht in eerste aanleg van Curaçao , 02-03-2020 / CUR201802359
