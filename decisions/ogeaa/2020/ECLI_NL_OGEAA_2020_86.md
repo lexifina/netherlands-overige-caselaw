@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2020:86"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0072"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0072", "PR-Updates.nl 2020-0072"]
 ---
 
 # ECLI:NL:OGEAA:2020:86 Gerecht in Eerste Aanleg van Aruba , 09-03-2020 / AUA201902104
