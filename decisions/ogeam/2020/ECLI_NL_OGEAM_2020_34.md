@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAM:2020:34"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0104"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0104", "PR-Updates.nl 2020-0104"]
 ---
 
 # ECLI:NL:OGEAM:2020:34 Gerecht in eerste aanleg van Sint Maarten , 03-04-2020 / SXM201901273
