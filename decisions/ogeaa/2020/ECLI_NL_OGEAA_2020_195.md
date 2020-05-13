@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2020:195"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0108"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0108", "PR-Updates.nl 2020-0108"]
 ---
 
 # ECLI:NL:OGEAA:2020:195 Gerecht in Eerste Aanleg van Aruba , 13-05-2020 / AUA201804115
