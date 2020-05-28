@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGAACMB:2020:49"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0125"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0125", "PR-Updates.nl 2020-0125"]
 ---
 
 # ECLI:NL:OGAACMB:2020:49 Gerecht in Ambtenarenzaken van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba , 28-05-2020 / CUR201804443
