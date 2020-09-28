@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGAACMB:2020:71"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0154"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0154", "PR-Updates.nl 2020-0154"]
 ---
 
 # ECLI:NL:OGAACMB:2020:71 Gerecht in Ambtenarenzaken van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba , 28-09-2020 / GAZ Cur201900014
