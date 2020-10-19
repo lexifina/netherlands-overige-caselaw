@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAM:2020:73"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0175"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0175", "PR-Updates.nl 2020-0175"]
 ---
 
 # ECLI:NL:OGEAM:2020:73 Gerecht in eerste aanleg van Sint Maarten , 19-10-2020 / SXM202000416-GAZ 3/2020
