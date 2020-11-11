@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2020:468"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0180"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2020-0180", "PR-Updates.nl 2020-0180"]
 ---
 
 # ECLI:NL:OGEAA:2020:468 Gerecht in Eerste Aanleg van Aruba , 11-11-2020 / A.R. nr. 2105 van 2017 / AUA201702553
