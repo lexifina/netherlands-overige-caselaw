@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2020:537"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0012"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0012", "PR-Updates.nl 2021-0012"]
 ---
 
 # ECLI:NL:OGEAA:2020:537 Gerecht in Eerste Aanleg van Aruba , 17-11-2020 / AUA202000179
