@@ -1,0 +1,63 @@
+---
+ecli: "ECLI:NL:ORBAACM:2020:31"
+court: "Raad van Beroep in Ambtenarenzaken van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba"
+court_code: "ORBAACM"
+docket: "CUR2019H00139"
+decided: "2020-12-16"
+published: "2020-12-17"
+type: "uitspraak"
+procedure: "Herziening"
+subject: "Bestuursrecht; Ambtenarenrecht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:ORBAACM:2020:31"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:ORBAACM:2020:31 Raad van Beroep in Ambtenarenzaken van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba , 16-12-2020 / CUR2019H00139
+
+## Inhoudsindicatie
+
+Herziening is ook niet bedoeld om een partij in de gelegenheid te stellen om argumenten die verzoeker in hoger beroep bij de Raad naar voren heeft gebracht of had kunnen brengen, opnieuw of alsnog naar voren te brengen om zodoende het debat te heropenen.
+
+## Uitspraak
+
+RAAD VAN BEROEP IN AMBTENARENZAKEN VAN CURAÇAO
+
+Uitspraak op het verzoek om herziening vande uitspraak van de Raad van 18 januari 2019 in de zaak van:
+
+[verzoeker],
+
+wonend in Curaçao,
+
+verzoeker,
+
+en
+
+de Regering van Curaçao,
+
+de regering,
+
+gemachtigde: mr. S.M. Concincion-Quirindongo, werkzaam bij de regering.
+
+Procesverloop
+
+De Raad heeft op 18 januari 2019 uitspraak gedaan in het geding tussen partijen.
+
+Bij schrijven van 15 april 2019 heeft verzoeker de Raad verzocht deze uitspraak te herzien op de in dat verzoek vermelde gronden (het verzoek).
+
+Het verzoek is behandeld ter zitting van de Raad van 3 december 2020, waar verzoeker is verschenen in persoon. De regering is verschenen bij gemachtigde.
+
+Overwegingen
+
+Ingevolge artikel 135, eerste lid, van de RAr is ieder die partij was in een geding, bevoegd, binnen drie maanden nadat van enige omstandigheid als in het tweede lid bedoeld is gebleken, de herziening van een onherroepelijke of onherroepelijk geworden uitspraak te verzoeken. In het tweede lid is bepaald dat de herziening wordt verzocht op grond dat gebleken is van enige omstandigheid die bij de behandeling van het beroep aan de raad niet bekend was en die op zich zelf of in verband met andere feiten of omstandigheden ernstige twijfel doet ontstaan aan de juistheid van de uitspraak van de raad.
+
+Verzoeker heeft gewezen op een groot aantal stukken die hij in bezwaar aan het Gerecht in ambtenarenzaken heeft overgelegd. De in deze stukken neergelegde informatie was dus al bekend bij de Raad, zodat niet is voldaan aan het vereiste dat sprake is van een omstandigheid die bij de behandeling van het beroep bij de Raad niet bekend was. Dat de Raad volgens verzoeker met bepaalde informatie niks zou hebben gedaan, maakt dat niet anders.
+
+Verzoeker heeft er daarnaast op gewezen dat de Raad artikel 9 van het Bezoldigingslandsbesluit 1998 onjuist heeft toegepast. Deze stelling, wat daarvan ook zij, kan niet leiden tot toewijzing van het verzoek om herziening. Volgens vaste rechtspraak van de Raad is het rechtsmiddel van herziening niet bedoeld om het geschil waarover is beslist bij de uitspraak waarvan herziening wordt verzocht, opnieuw aan de Raad voor te leggen. Herziening is ook niet bedoeld om een partij in de gelegenheid te stellen om argumenten die verzoeker in hoger beroep bij de Raad naar voren heeft gebracht of had kunnen brengen, opnieuw of alsnog naar voren te brengen om zodoende het debat te heropenen.
+
+De slotsom is dat het verzoek om herziening moet worden afgewezen.
+
+Beslissing
+
+De Raad wijst het verzoek om herziening af.
+
+Aldus gegeven door mr. W.H. Bel, voorzitter, mr. L.J.J. Rogier en drs. P.J. Thijssen, leden, en uitgesproken in het openbaar op 16 december 2020 in tegenwoordigheid van de griffier.
