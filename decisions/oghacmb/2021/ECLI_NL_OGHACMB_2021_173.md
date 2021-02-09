@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGHACMB:2021:173"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0165"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0165", "PR-Updates.nl 2021-0165"]
 ---
 
 # ECLI:NL:OGHACMB:2021:173 Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba , 09-02-2021 / CUR 2018H00009
