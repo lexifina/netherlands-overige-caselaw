@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAC:2021:52"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0086", "Jurisprudentie Erfrecht 2021/103", "JERF 2021/103", "JERF Actueel 2021/150"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0086", "Jurisprudentie Erfrecht 2021/103", "JERF 2021/103", "JERF Actueel 2021/150", "PR-Updates.nl 2021-0086"]
 ---
 
 # ECLI:NL:OGEAC:2021:52 Gerecht in eerste aanleg van Curaçao , 29-03-2021 / CUR201803132
