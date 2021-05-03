@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGAACMB:2021:28"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0100"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0100", "PR-Updates.nl 2021-0100"]
 relations: [["Formele relatie", "Hoger beroep: ECLI:NL:ORBAACM:2022:102"]]
 ---
 
