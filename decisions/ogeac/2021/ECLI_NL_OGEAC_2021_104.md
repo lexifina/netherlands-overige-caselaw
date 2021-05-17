@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAC:2021:104"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0116"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0116", "PR-Updates.nl 2021-0116"]
 ---
 
 # ECLI:NL:OGEAC:2021:104 Gerecht in eerste aanleg van Curaçao , 17-05-2021 / CUR202100897
