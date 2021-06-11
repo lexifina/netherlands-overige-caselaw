@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGHACMB:2021:258"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0175"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2021-0175", "PR-Updates.nl 2021-0175"]
 ---
 
 # ECLI:NL:OGHACMB:2021:258 Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba , 11-06-2021 / SXM2020H00057
