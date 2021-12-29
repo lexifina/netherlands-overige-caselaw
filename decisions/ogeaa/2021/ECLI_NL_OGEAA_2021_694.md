@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2021:694"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0074"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0074", "PR-Updates.nl 2022-0074"]
 ---
 
 # ECLI:NL:OGEAA:2021:694 Gerecht in Eerste Aanleg van Aruba , 29-12-2021 / AUA201902164
