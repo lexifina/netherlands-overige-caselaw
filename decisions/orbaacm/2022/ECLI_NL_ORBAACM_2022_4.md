@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:ORBAACM:2022:4"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0051"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0051", "PR-Updates.nl 2022-0051"]
 ---
 
 # ECLI:NL:ORBAACM:2022:4 Raad van Beroep in Ambtenarenzaken van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba , 09-02-2022 / CUR2020H000035
