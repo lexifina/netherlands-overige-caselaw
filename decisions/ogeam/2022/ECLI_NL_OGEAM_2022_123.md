@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAM:2022:123"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "CFN 2026/18 met annotatie van -"]
 ---
 
 # ECLI:NL:OGEAM:2022:123 Gerecht in eerste aanleg van Sint Maarten , 10-02-2022 / 820.00005/19
