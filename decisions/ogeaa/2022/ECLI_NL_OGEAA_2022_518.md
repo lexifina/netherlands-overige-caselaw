@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2022:518"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0174"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0174", "PR-Updates.nl 2023-0174"]
 ---
 
 # ECLI:NL:OGEAA:2022:518 Gerecht in Eerste Aanleg van Aruba , 15-03-2022 / AUA202103125
