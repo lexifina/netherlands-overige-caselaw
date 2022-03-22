@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAM:2022:40"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0143"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2022-0143", "PR-Updates.nl 2022-0143"]
 ---
 
 # ECLI:NL:OGEAM:2022:40 Gerecht in eerste aanleg van Sint Maarten , 22-03-2022 / SXM202100599
