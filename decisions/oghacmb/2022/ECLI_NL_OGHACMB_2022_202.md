@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGHACMB:2022:202"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0086"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0086", "PR-Updates.nl 2023-0086"]
 ---
 
 # ECLI:NL:OGHACMB:2022:202 Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba , 23-11-2022 / AUA2022H00153 R
