@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAC:2022:331"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0012"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0012", "PR-Updates.nl 2023-0012"]
 ---
 
 # ECLI:NL:OGEAC:2022:331 Gerecht in eerste aanleg van Curaçao , 05-12-2022 / CUR202102851
