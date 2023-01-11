@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2023:203"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0191"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0191", "PR-Updates.nl 2023-0191"]
 ---
 
 # ECLI:NL:OGEAA:2023:203 Gerecht in Eerste Aanleg van Aruba , 11-01-2023 / AUA202001148
