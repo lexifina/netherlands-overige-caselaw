@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAC:2023:140"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0141"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0141", "PR-Updates.nl 2023-0141"]
 ---
 
 # ECLI:NL:OGEAC:2023:140 Gerecht in eerste aanleg van Curaçao , 05-06-2023 / CUR202204551
