@@ -74,7 +74,7 @@ DE VASTSTAANDE FEITEN
 
 2.1
 
-Uit het huwelijk tussen partijen is op 27 december 2011 in Aruba geboren de minderjarige [Naam minderjarige 1] en op 26 september 2013 in Aruba geboren de minderjarige [Naam minderjarige 2].
+Uit het huwelijk tussen partijen is op [geboortedatum 1] 2011 in Aruba geboren de minderjarige [Naam minderjarige 1] en op [geboortedatum 2] 2013 in Aruba geboren de minderjarige [Naam minderjarige 2].
 
 2.2
 
