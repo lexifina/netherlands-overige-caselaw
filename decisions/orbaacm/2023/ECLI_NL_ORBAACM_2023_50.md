@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:ORBAACM:2023:50"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0164"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0164", "PR-Updates.nl 2023-0164"]
 relations: [["Formele relatie", "Eerste aanleg: ECLI:NL:OGAACMB:2022:60"]]
 ---
 
