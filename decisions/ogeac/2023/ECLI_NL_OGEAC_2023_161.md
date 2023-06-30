@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAC:2023:161"
-published_in: ["Rechtspraak.nl", "PJ 2023/103", "PR-Updates.nl PR-2023-0162"]
+published_in: ["Rechtspraak.nl", "PJ 2023/103", "PR-Updates.nl PR-2023-0162", "PR-Updates.nl 2023-0162"]
 ---
 
 # ECLI:NL:OGEAC:2023:161 Gerecht in eerste aanleg van Curaçao , 30-06-2023 / CUR202001108
