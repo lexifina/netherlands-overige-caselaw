@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGHACMB:2023:147"
-published_in: ["Rechtspraak.nl", "CFN 2023/78 met annotatie van -", "NDFR Nieuws 2023/1176", "NTFR 2023/1440 met annotatie van Redactie", "NLF 2023/1934 met annotatie van Julian Lopez Ramirez", "NTFR 2025/372 met annotatie van Mr. K.M.G. Demandt"]
+published_in: ["Rechtspraak.nl", "CFN 2023/78", "NDFR Nieuws 2023/1176", "NTFR 2023/1440", "NLF 2023/1934 met annotatie van mr. J.G. Lopez Ramirez", "NTFR 2025/372 met annotatie van Mr. K.M.G. Demandt", "2023/1934 met annotatie van mr. J.G. Lopez Ramirez"]
 ---
 
 # ECLI:NL:OGHACMB:2023:147 Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba , 10-08-2023 / CUR2022H00249
