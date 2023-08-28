@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAC:2023:211"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0175", "PJ 2023/120"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2023-0175", "PJ 2023/120", "PR-Updates.nl 2023-0175"]
 ---
 
 # ECLI:NL:OGEAC:2023:211 Gerecht in eerste aanleg van Curaçao , 28-08-2023 / CUR202301970
