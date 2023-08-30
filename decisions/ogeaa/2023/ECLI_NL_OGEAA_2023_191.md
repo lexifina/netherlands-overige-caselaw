@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2023:191"
 published_in: ["Rechtspraak.nl", "JERF Actueel 2023/395", "ERF-Updates.nl 2023-0393", "JERF 2023/169"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:OGHACMB:2026:276"]]
 ---
 
 # ECLI:NL:OGEAA:2023:191 Gerecht in Eerste Aanleg van Aruba , 30-08-2023 / AUA202203288
