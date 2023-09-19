@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGHACMB:2023:177"
-published_in: ["Rechtspraak.nl", "PJ 2023/119", "PR-Updates.nl PR-2023-0192"]
+published_in: ["Rechtspraak.nl", "PJ 2023/119", "PR-Updates.nl PR-2023-0192", "PR-Updates.nl 2023-0192"]
 ---
 
 # ECLI:NL:OGHACMB:2023:177 Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba , 19-09-2023 / CUR202004118– CUR2022H00047
