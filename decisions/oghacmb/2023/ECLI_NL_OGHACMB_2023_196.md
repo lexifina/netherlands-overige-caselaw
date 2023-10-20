@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGHACMB:2023:196"
-published_in: ["Rechtspraak.nl", "PJ 2023/135", "PR-Updates.nl PR-2023-0212"]
+published_in: ["Rechtspraak.nl", "PJ 2023/135", "PR-Updates.nl PR-2023-0212", "PR-Updates.nl 2023-0212"]
 ---
 
 # ECLI:NL:OGHACMB:2023:196 Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba , 20-10-2023 / AUA2023H00093
