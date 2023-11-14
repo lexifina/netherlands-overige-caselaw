@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGHACMB:2023:251"
-published_in: ["Rechtspraak.nl", "CFN 2023/117 met annotatie van -", "V-N Vandaag 2024/119", "NLF 2024/0152 met annotatie van Germaine Rekwest", "V-N 2024/7.1.5"]
+published_in: ["Rechtspraak.nl", "CFN 2023/117", "V-N Vandaag 2024/119", "NLF 2024/0152 met annotatie van dr. mr. G.D. Rekwest", "V-N 2024/7.1.5"]
 ---
 
 # ECLI:NL:OGHACMB:2023:251 Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba , 14-11-2023 / AUA2021H00143
