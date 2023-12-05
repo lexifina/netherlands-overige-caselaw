@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2023:306"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0021"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0021", "PR-Updates.nl 2024-0021"]
 ---
 
 # ECLI:NL:OGEAA:2023:306 Gerecht in Eerste Aanleg van Aruba , 05-12-2023 / AUA202302681
