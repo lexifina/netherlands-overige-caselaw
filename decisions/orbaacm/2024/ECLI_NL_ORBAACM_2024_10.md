@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Hoger beroep"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:ORBAACM:2024:10"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0066", "PJ 2024/45"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0066", "PJ 2024/45", "PR-Updates.nl 2024-0066"]
 ---
 
 # ECLI:NL:ORBAACM:2024:10 Raad van Beroep in Ambtenarenzaken van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba , 28-02-2024 / CUR2023H00261
