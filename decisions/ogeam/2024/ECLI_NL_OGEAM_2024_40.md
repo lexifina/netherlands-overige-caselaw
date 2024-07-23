@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAM:2024:40"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:OGHACMB:2026:255"]]
 ---
 
 # ECLI:NL:OGEAM:2024:40 Gerecht in eerste aanleg van Sint Maarten , 23-07-2024 / SXM202200984
