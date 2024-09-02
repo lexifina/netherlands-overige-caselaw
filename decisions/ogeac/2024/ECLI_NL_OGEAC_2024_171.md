@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAC:2024:171"
-published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0223", "PJ 2024/138"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl PR-2024-0223", "PJ 2024/138", "PR-Updates.nl 2024-0223"]
 ---
 
 # ECLI:NL:OGEAC:2024:171 Gerecht in eerste aanleg van Curaçao , 02-09-2024 / CUR202203867
