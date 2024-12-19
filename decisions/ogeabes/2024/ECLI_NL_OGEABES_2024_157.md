@@ -82,7 +82,7 @@ De transacties hebben plaatsgevonden in de periode van 01-09-2016 tot en met 14-
 
 2. Een naar wettelijk voorschrift opgemaakt proces-verbaal van getuigenverhoor d.d. 25 januari 2023, opgenomen op pagina 270 e.v. van het dossier, inhoudende als verklaring van [getuige 1]
 
-“[verdachte] kwam mij vragen of ik geld voor haar wilde storten op de bank. Wij zijn toen naar de MCB in Hato gegaan. Andrea heeft mij daar heengebracht. Andrea heeft op mij gewacht terwijl ik geld ging storten. Ik krijg van [verdachte] een papiertje met een naam en een nummer erop. Ze heeft mij dat 3 a 4 keergevraagd om te doen. Zij bracht mij elke keer.”
+“[verdachte] kwam mij vragen of ik geld voor haar wilde storten op de bank. Wij zijn toen naar de MCB in Hato gegaan. [verdachte] heeft mij daar heengebracht. [verdachte] heeft op mij gewacht terwijl ik geld ging storten. Ik krijg van [verdachte] een papiertje met een naam en een nummer erop. Ze heeft mij dat 3 a 4 keergevraagd om te doen. Zij bracht mij elke keer.”
 
 3. Een naar wettelijk voorschrift opgemaakt proces-verbaal van getuigenverhoor d.d. 25 januari 2023, opgenomen op pagina 274 e.v. van het dossier, inhoudende als verklaring van [getuige 2]:
 
