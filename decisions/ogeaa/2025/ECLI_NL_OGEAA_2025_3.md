@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Strafrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2025:3"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:OGHACMB:2026:293"]]
 ---
 
 # ECLI:NL:OGEAA:2025:3 Gerecht in Eerste Aanleg van Aruba , 22-01-2025 / P-2023/01977
