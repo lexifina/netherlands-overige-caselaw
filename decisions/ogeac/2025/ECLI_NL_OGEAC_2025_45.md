@@ -3,7 +3,7 @@ ecli: "ECLI:NL:OGEAC:2025:45"
 court: "Gerecht in eerste aanleg van Curaçao"
 court_code: "OGEAC"
 docket: "CUR202401349"
-decided: "2025-02-19"
+decided: "2025-04-14"
 published: "2025-04-14"
 type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
@@ -12,7 +12,7 @@ source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAC:2025:45"
 published_in: ["Rechtspraak.nl"]
 ---
 
-# ECLI:NL:OGEAC:2025:45 Gerecht in eerste aanleg van Curaçao , 19-02-2025 / CUR202401349
+# ECLI:NL:OGEAC:2025:45 Gerecht in eerste aanleg van Curaçao , 14-04-2025 / CUR202401349
 
 ## Inhoudsindicatie
 
