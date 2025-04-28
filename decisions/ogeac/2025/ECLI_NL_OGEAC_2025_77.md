@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Burgerlijk procesrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAC:2025:77"
 published_in: ["Rechtspraak.nl", "CFN 2025/43 met annotatie van -"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:OGHACMB:2026:257"]]
 ---
 
 # ECLI:NL:OGEAC:2025:77 Gerecht in eerste aanleg van Curaçao , 28-04-2025 / CUR202401097 en CUR202401396
