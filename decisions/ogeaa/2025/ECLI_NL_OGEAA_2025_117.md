@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2025:117"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:OGHACMB:2026:291"]]
 ---
 
 # ECLI:NL:OGEAA:2025:117 Gerecht in Eerste Aanleg van Aruba , 14-05-2025 / AUA202202479 en AUA2023I00004AR
