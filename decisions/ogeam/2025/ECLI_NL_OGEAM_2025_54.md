@@ -10,6 +10,7 @@ procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAM:2025:54"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:OGHACMB:2026:256"]]
 ---
 
 # ECLI:NL:OGEAM:2025:54 Gerecht in eerste aanleg van Sint Maarten , 18-07-2025 / SXM202500582
