@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAC:2025:328"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VFP 2026/74"]
 ---
 
 # ECLI:NL:OGEAC:2025:328 Gerecht in eerste aanleg van Curaçao , 15-09-2025 / CUR202401077
