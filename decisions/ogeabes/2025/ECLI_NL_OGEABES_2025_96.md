@@ -1,0 +1,116 @@
+---
+ecli: "ECLI:NL:OGEABES:2025:96"
+court: "Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba"
+court_code: "OGEABES"
+docket: "BON202500463"
+decided: "2025-11-18"
+published: "2025-12-03"
+type: "uitspraak"
+procedure: "Eerste aanleg - enkelvoudig"
+subject: "Civiel recht"
+source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEABES:2025:96"
+published_in: ["Rechtspraak.nl"]
+---
+
+# ECLI:NL:OGEABES:2025:96 Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba , 18-11-2025 / BON202500463
+
+## Inhoudsindicatie
+
+Toewijzing van verzoek van een neef tot ondercuratelestelling van zijn tante met benoeming van de neef tot curator.
+
+## Uitspraak
+
+GERECHT IN EERSTE AANLEG VAN BONAIRE, SINT EUSTATIUS EN SABA
+zittingsplaats Bonaire
+
+registratienummer: BON202500463
+
+datum beslissing: 18 november 2025
+
+BESCHIKKING
+
+op verzoek van:
+
+1
+[verzoeker 1],
+
+2. [verzoekster 2],
+
+beiden wonende te Bonaire,
+
+hierna: verzoekers,
+
+tot ondercuratelestelling van:
+
+[betrokkene],
+
+geboren op [geboortedatum] 1947,
+
+wonende te Bonaire,
+
+hierna: betrokkene.
+
+1
+De procedure
+
+1.1.
+
+Het verzoekschrift met bijlagen is ingediend op 9 september 2025.
+
+1.2.
+
+De mondelinge behandeling heeft plaatsgevonden op 12 november 2025. Daarbij waren aanwezig: verzoeker onder 1 (neef van betrokkene) en betrokkene. Ook was aanwezig mevrouw K. Thielman, in haar hoedanigheid van tolk in de Papiamentse taal.
+
+1.3.
+
+De beschikking is bepaald op heden.
+
+2
+Het verzoek en de beoordeling
+
+2.1.
+
+Betrokkene is de tante van verzoeker onder 1 en de groottante van verzoekster onder 2. Verzoekers vragen het gerecht om betrokkene onder curatele te stellen met benoeming van verzoeker onder 1 tot curator.
+
+2.2.
+
+Een meerderjarige kan op grond van artikel 1:378 lid 1 onder a BW BES door de rechter onder curatele worden gesteld wegens een geestelijke stoornis waardoor betrokkene, al dan niet met tussenpozen, niet in staat is of bemoeilijkt wordt zijn belangen behoorlijk waar te nemen.
+
+2.3.
+
+Tijdens de mondelinge behandeling is gebleken dat betrokkene verblijft
+
+in een verzorgingstehuis voor (ook) dementerenden en verzoekers hebben verklaard dat er een doktersverklaring van dementie is. Gelet daarop en alles dat is besproken tijdens de mondelinge behandeling, is voldoende aannemelijk geworden dat er bij betrokkene sprake is van een geestelijke stoornis, waardoor zij al dan niet met tussenpozen, niet in staat is of bemoeilijkt wordt haar belangen behoorlijk waar te nemen. Tijdens de mondelinge behandeling is gebleken dat betrokkene akkoord gaat met de verzochte ondercuratelestelling en benoeming van haar neef tot curator.
+
+3
+De beslissing
+
+Het gerecht:
+
+3.1.
+
+stelt [betrokkene], geboren op [geboortedatum] 1947 te Bonaire, onder curatele;
+
+3.2.
+
+benoemt [verzoeker 1] tot curator, geboren op [geboortedatum] 1965 te Bonaire;
+
+3.3.
+
+bepaalt dat deze beschikking binnen 10 dagen nadat deze uitspraak ten uitvoer kan worden gelegd, door de curator bekend zal worden gemaakt in de
+
+Staatscourant en ook in de op Bonaire verschijnende dagbladen Extra en het Antilliaans dagblad;
+
+3.4.
+
+verstaat dat de griffier van dit gerecht de ondercuratelestelling in het curateleregister aantekent;
+
+3.5.
+
+bepaalt dat de curator binnen twee maanden na deze uitspraak een boedelbeschrijving (opgave van bezittingen/schulden en inkomsten/uitgaven) aan het gerecht verstrekt (via het bijgevoegde formulier);
+
+3.6.
+
+bepaalt dat de curator ieder kalenderjaar – voor het eerst op 1 maart 2026 voor wat betreft het kalenderjaar 2025 – een schriftelijke rekening en verantwoording (via het bijgevoegde formulier) indient bij dit gerecht over het gevoerde beheer.
+
+Deze beschikking is gegeven door mr. J.M.J. Keltjens, rechter, en in het openbaar uitgesproken op 18 november 2025 in tegenwoordigheid van de griffier.
