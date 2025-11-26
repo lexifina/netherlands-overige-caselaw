@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2025:360"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "S&S 2026/51"]
 ---
 
 # ECLI:NL:OGEAA:2025:360 Gerecht in Eerste Aanleg van Aruba , 26-11-2025 / AUA202400486 AR
