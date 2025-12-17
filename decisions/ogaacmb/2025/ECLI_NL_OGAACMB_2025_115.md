@@ -10,6 +10,7 @@ procedure: "Bodemzaak"
 subject: "Bestuursrecht; Ambtenarenrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGAACMB:2025:115"
 published_in: ["Rechtspraak.nl"]
+relations: [["Formele relatie", "Hoger beroep: ECLI:NL:ORBAACM:2026:38"]]
 ---
 
 # ECLI:NL:OGAACMB:2025:115 Gerecht in Ambtenarenzaken van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba , 17-12-2025 / CUR202502379
