@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2026:10"
-published_in: ["Rechtspraak.nl", "JERF Actueel 2026/30", "ERF-Updates.nl 2026-0086", "VEAN-ERF-Updates.nl 2026-0086"]
+published_in: ["Rechtspraak.nl", "JERF Actueel 2026/30", "ERF-Updates.nl 2026-0086", "VEAN-ERF-Updates.nl 2026-0086", "JERF 2026/70 met annotatie van prof. mr. J.W.A. Biemans"]
 ---
 
 # ECLI:NL:OGEAA:2026:10 Gerecht in Eerste Aanleg van Aruba , 07-01-2026 / AUA202400484
