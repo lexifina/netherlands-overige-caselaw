@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Kort geding"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2026:46"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0161", "VEAN-ERF-Updates.nl 2026-0161"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0161", "VEAN-ERF-Updates.nl 2026-0161", "JERF Actueel 2026/81"]
 ---
 
 # ECLI:NL:OGEAA:2026:46 Gerecht in Eerste Aanleg van Aruba , 05-02-2026 / AUA202503514 KG
