@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAM:2026:32"
-published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0150", "VEAN-ERF-Updates.nl 2026-0150"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0150", "VEAN-ERF-Updates.nl 2026-0150", "JERF Actueel 2026/91"]
 ---
 
 # ECLI:NL:OGEAM:2026:32 Gerecht in eerste aanleg van Sint Maarten , 03-03-2026 / SXM202500738
