@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht; Arbeidsrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2026:75"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PR-Updates.nl 2026-0143"]
 ---
 
 # ECLI:NL:OGEAA:2026:75 Gerecht in Eerste Aanleg van Aruba , 17-03-2026 / AUA202600023
