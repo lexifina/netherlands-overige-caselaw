@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEABES:2026:9"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "VEAN-ERF-Updates.nl 2026-0217", "ERF-Updates.nl 2026-0217"]
 ---
 
 # ECLI:NL:OGEABES:2026:9 Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba , 18-03-2026 / SAB202500033
