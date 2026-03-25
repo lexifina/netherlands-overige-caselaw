@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2026:78"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "ERF-Updates.nl 2026-0230", "VEAN-ERF-Updates.nl 2026-0230"]
 ---
 
 # ECLI:NL:OGEAA:2026:78 Gerecht in Eerste Aanleg van Aruba , 25-03-2026 / AUA202401753 AR
@@ -28,11 +28,11 @@ GERECHT IN EERSTE AANLEG VAN ARUBA
 
 BESCHIKKING
 
-betreffende het verzoek op grond van artikel 3:200a e.v. van het Burgerlijk Wetboek tot toekenning van het langdurig onverdeeld gebleven perceel [adres 1] te [locatie], Aruba, met kadastrale aanduiding [perceel nummer], groot 182 m2, dat volgens het Kadaster eigendom is van
+betreffende het verzoek op grond van artikel 3:200a e.v. van het Burgerlijk Wetboek tot toekenning van het langdurig onverdeeld gebleven perceel Zuidstraat 23 te [locatie], Aruba, met kadastrale aanduiding 1-A-73, groot 182 m2, dat volgens het Kadaster eigendom is van
 
-i) [Erflater 1], geboren te [geboorteplaats] op [geboortedatum] 1909 en overleden te Aruba op 19 mei 1949, en
+i) Marino Urbano MONSON, geboren te Dominicaanse Republiek op 25 mei 1909 en overleden te Aruba op 19 mei 1949, en
 
-ii) (aanvankelijk) [erflater 2], geboorte- en sterfdatum onbekend, dan wel (thans) [erflater 2], geboren op [geboortedatum] 1855 en overleden op 20 oktober 1928;
+ii) (aanvankelijk) Jochem PAESCH, geboorte- en sterfdatum onbekend, dan wel (thans) Jochem PAESCH, geboren op 15 april 1855 en overleden op 20 oktober 1928;
 
 welk verzoek is ingediend door de verzoeker:
 
@@ -126,35 +126,35 @@ DE VERDERE BEOORDELING
 
 2.1
 
-In de beschikking van 27 november 2024 heeft het Gerecht erop gewezen dat het perceel in het kadaster is geregistreerd op naam van [erflater 1], geboren in de [geboorteplaats] op [geboortedatum] 1909, terwijl de stamboom van Censo, die [verzoeker] in het geding heeft gebracht, betrekking heeft op [erflater 1], geboren in de [geboorteplaats] op [geboortedatum] 1909. Het Gerecht heeft overwogen dat het voor de hand ligt dat het gaat om dezelfde persoon, maar heeft [verzoeker] verzocht om daarover op de zitting een nader standpunt in te nemen.
+In de beschikking van 27 november 2024 heeft het Gerecht erop gewezen dat het perceel in het kadaster is geregistreerd op naam van Marino Urbano Monson, geboren in de Dominicaanse Republiek op 27 mei 1909, terwijl de stamboom van Censo, die [verzoeker] in het geding heeft gebracht, betrekking heeft op Marino Urbano Monzón, geboren in de Dominicaanse Republiek op 25 mei 1909. Het Gerecht heeft overwogen dat het voor de hand ligt dat het gaat om dezelfde persoon, maar heeft [verzoeker] verzocht om daarover op de zitting een nader standpunt in te nemen.
 
 2.2
 
-Dat heeft [verzoeker] gedaan. [Verzoeker] heeft zich op het standpunt gesteld dat aannemelijk is dat de informatie in het Kadaster onjuist is. Zowel [erflater 1] als [verzoeker] is in [geboortedatum] 1909 geboren in de [geboorteplaats], terwijl navraag bij Censo heeft geleerd dat in haar register de naam [erflater 1] niet voorkomt.
+Dat heeft [verzoeker] gedaan. [Verzoeker] heeft zich op het standpunt gesteld dat aannemelijk is dat de informatie in het Kadaster onjuist is. Zowel Monson als Monzón is in mei 1909 geboren in de Dominicaanse Republiek, terwijl navraag bij Censo heeft geleerd dat in haar register de naam Monson niet voorkomt.
 
 2.3
 
-Gelet op de overgelegde informatie, in combinatie met het feit dat het het Gerecht ambtshalve bekend is dat in oude kadastrale stukken regelmatig schrijffouten voorkomen, gaat ook het Gerecht ervan uit dat het perceel (mede-) eigendom is van [erflater 1], geboren in de [geboorteplaats] op [geboortedatum] 1909.
+Gelet op de overgelegde informatie, in combinatie met het feit dat het het Gerecht ambtshalve bekend is dat in oude kadastrale stukken regelmatig schrijffouten voorkomen, gaat ook het Gerecht ervan uit dat het perceel (mede-) eigendom is van Marino Urbano Monzón, geboren in de Dominicaanse Republiek op 25 mei 1909.
 
-Van welke [erflater 2] is het perceel?
+Van welke Jochem Paesch is het perceel?
 
 2.4
 
-Toen het verzoekschrift werd ingediend, stond het perceel bij het Kadaster voor 6/10e deel geregistreerd op naam van [erflater 1], en voor 4/10e deel op naam van [erflater 2] (geboortedatum onbekend).  In het verzoekschrift is toegelicht dat het gaat om [erflater 2], geboren op Aruba op [geboortedatum] 1860 en overleden op Curaçao op 31 oktober 1921 (bij leven getrouwd met [partner van erflater 2]). Van die gegevens is het Gerecht in de eerdere beschikkingen ook uitgegaan.
+Toen het verzoekschrift werd ingediend, stond het perceel bij het Kadaster voor 6/10e deel geregistreerd op naam van Marino Urbano Monzón, en voor 4/10e deel op naam van Jochem Paesch (geboortedatum onbekend).  In het verzoekschrift is toegelicht dat het gaat om Jochem Paesch, geboren op Aruba op 16 oktober 1860 en overleden op Curaçao op 31 oktober 1921 (bij leven getrouwd met [partner van erflater 2]). Van die gegevens is het Gerecht in de eerdere beschikkingen ook uitgegaan.
 
 2.5
 
-Verschillende personen die zich als belanghebbenden hebben gemeld, hebben zich op het standpunt gesteld dat het perceel eigendom was van een andere [erflater 2], namelijk [naamvariant 2], die is geboren in Aruba op [geboortedatum] 1855 en overleden te Aruba op 20 oktober 1928 (bij leven getrouwd met [echtgenote van erflater 2]). Uit de kadastrale informatie, die verschillende belanghebbenden in het geding hebben gebracht, blijkt dat het perceel inmiddels bij het Kadaster is geregistreerd op naam van [erflater 2] [erflater 2]  met geboortedatum [geboortedatum] 1855 en overlijdensdatum 20 oktober 1928.
+Verschillende personen die zich als belanghebbenden hebben gemeld, hebben zich op het standpunt gesteld dat het perceel eigendom was van een andere Jochem Paesch, namelijk Jochem (of Johem) Willem Paesch, die is geboren in Aruba op 15 april 1855 en overleden te Aruba op 20 oktober 1928 (bij leven getrouwd met [echtgenote van erflater 2]). Uit de kadastrale informatie, die verschillende belanghebbenden in het geding hebben gebracht, blijkt dat het perceel inmiddels bij het Kadaster is geregistreerd op naam van Jochem Paesch met geboortedatum 15 april 1855 en overlijdensdatum 20 oktober 1928.
 
 2.6
 
-Alle personen die tijdens de zitting aanwezig waren, zijn het erover eens dat het perceel (deels) van deze [erflater 2] is. Ook mr. Kock heeft gezegd dat hij er bij nader inzien van uitgaat dat hij in het verzoekschrift de verkeerde [erflater 2] heeft genoemd. Voor de beslissing van het Gerecht maakt dat niet uit: als nog onduidelijkheid zou bestaan over de vraag welke [erflater 2] mede-eigenaar is van het perceel, ligt het op de weg van de notaris om dat na te gaan. De notaris zal immers moeten uitzoeken welke personen deelgenoot zijn.
+Alle personen die tijdens de zitting aanwezig waren, zijn het erover eens dat het perceel (deels) van deze Jochem Paesch is. Ook mr. Kock heeft gezegd dat hij er bij nader inzien van uitgaat dat hij in het verzoekschrift de verkeerde Jochem Paesch heeft genoemd. Voor de beslissing van het Gerecht maakt dat niet uit: als nog onduidelijkheid zou bestaan over de vraag welke Jochem Paesch mede-eigenaar is van het perceel, ligt het op de weg van de notaris om dat na te gaan. De notaris zal immers moeten uitzoeken welke personen deelgenoot zijn.
 
 Kan verzoeker worden aangemerkt als gebruiker in de zin van artikel 3:200a e.v. BWA?
 
 2.7	[
 
-Verzoeker] stelt zich op het standpunt dat hij kan worden aangemerkt als gebruiker van het perceel in de zin van de artikelen 3:200a e.v. BWA. Daartoe heeft hij gesteld dat zijn moeder was getrouwd met een zoon van [erflater 1], een van de twee eigenaren van het perceel. Zijn moeder heeft het perceel lange tijd verzorgd en verhuurd en heeft haar werkzaamheden later aan [verzoeker] overgedragen, zo licht [verzoeker] toe. Volgens [verzoeker] heeft geen van de andere deelgenoten ooit belangstelling getoond voor het perceel. [Verzoeker] wil nu eigenaar worden van het perceel. Omdat [verzoeker] meent dat hij kan worden aangemerkt als gebruiker van het perceel, wil hij dat het perceel (zonder betaling) aan hem in eigendom wordt toegekend.
+Verzoeker] stelt zich op het standpunt dat hij kan worden aangemerkt als gebruiker van het perceel in de zin van de artikelen 3:200a e.v. BWA. Daartoe heeft hij gesteld dat zijn moeder was getrouwd met een zoon van Marino Urbano Monzón, een van de twee eigenaren van het perceel. Zijn moeder heeft het perceel lange tijd verzorgd en verhuurd en heeft haar werkzaamheden later aan [verzoeker] overgedragen, zo licht [verzoeker] toe. Volgens [verzoeker] heeft geen van de andere deelgenoten ooit belangstelling getoond voor het perceel. [Verzoeker] wil nu eigenaar worden van het perceel. Omdat [verzoeker] meent dat hij kan worden aangemerkt als gebruiker van het perceel, wil hij dat het perceel (zonder betaling) aan hem in eigendom wordt toegekend.
 
 2.8
 
@@ -162,7 +162,7 @@ De personen die zich als belanghebbenden hebben gemeld, hebben allemaal verweer 
 
 2.9
 
-Naar het oordeel van het Gerecht kan worden aangenomen dat sprake is van een langdurig onverdeelde gemeenschap in de zin van de artikelen 3:200a e.v. BWA. Zowel [erflater 1] als [erflater 2] is al lang geleden overleden ([erflater 1] in 1949 en [erflater 2] hoogstwaarschijnlijk in 1928). [Erflater 1] heeft (op dit moment) slechts acht afstammelingen, maar aannemelijk is dat [erflater 2] een zeer groot aantal afstammelingen heeft nagelaten. [Erflater 2] had volgens de informatie van het Archivo Nacional twaalf kinderen. Volgens de beschikbare informatie zijn drie van die kinderen al op jonge leeftijd overleden, maar naar verwachting hebben de negen andere kinderen (die inmiddels ook zijn overleden) gezorgd voor een groot aantal afstammelingen. In deze procedure heeft zich een aantal van hen gemeld, maar aannemelijk is dat er ook geen groot aantal afstammelingen is dat niet kan worden opgespoord.
+Naar het oordeel van het Gerecht kan worden aangenomen dat sprake is van een langdurig onverdeelde gemeenschap in de zin van de artikelen 3:200a e.v. BWA. Zowel Marino Urbano Monzón als Jochem Paesch is al lang geleden overleden (Marino Urbano Monzón in 1949 en Jochem Paesch hoogstwaarschijnlijk in 1928). Marino Urbano Monzón heeft (op dit moment) slechts acht afstammelingen, maar aannemelijk is dat Jochem Paesch een zeer groot aantal afstammelingen heeft nagelaten. Jochem Paesch had volgens de informatie van het Archivo Nacional twaalf kinderen. Volgens de beschikbare informatie zijn drie van die kinderen al op jonge leeftijd overleden, maar naar verwachting hebben de negen andere kinderen (die inmiddels ook zijn overleden) gezorgd voor een groot aantal afstammelingen. In deze procedure heeft zich een aantal van hen gemeld, maar aannemelijk is dat er ook geen groot aantal afstammelingen is dat niet kan worden opgespoord.
 
 2.10
 
@@ -172,7 +172,7 @@ i.	In de eerste plaats is de regeling voor langdurig onverdeelde gemeenschappen 
 
 ii.	In de tweede plaats is onvoldoende gebleken dat [verzoeker] (en daarvoor zijn moeder) het perceel daadwerkelijk “in gebruik” had op de manier zoals is bedoeld in de wettelijke bepalingen. Vast staat dat de moeder van [verzoeker] het perceel enige tijd heeft beheerd. Ook heeft [verzoeker] gesteld dat hij werkzaamheden heeft verricht aan het pand (wat is bevestigd door zijn zus). Daar staat echter tegenover dat ook andere deelgenoten hebben gezegd dat zij zich hebben bemoeid met het pand. Dat [verzoeker] daadwerkelijk als “gebruiker” kan worden aangemerkt, blijkt uit niets, en evenmin dat hij een veel grotere betrokkenheid heeft met het perceel dan anderen.
 
-iii.	Tot slot kan niet worden aangenomen dat de waarde van de aandelen van de deelgenoten in het perceel “zeer gering” is als bedoeld in artikel 3:200a lid 1 BWA. Met name aan de zijde van de acht afstammelingen van [erflater 1] (die tezamen rechthebbende zijn van 6/10e deel van het perceel) is dit niet het geval.
+iii.	Tot slot kan niet worden aangenomen dat de waarde van de aandelen van de deelgenoten in het perceel “zeer gering” is als bedoeld in artikel 3:200a lid 1 BWA. Met name aan de zijde van de acht afstammelingen van Marino Urbano Monzón (die tezamen rechthebbende zijn van 6/10e deel van het perceel) is dit niet het geval.
 
 2.11
 
@@ -207,7 +207,7 @@ Het Gerecht:
 
 3.1
 
-deelt de eigendom van het langdurig onverdeeld gebleven perceel [adres 1] te Oranjestad, Aruba, met kadastrale aanduiding [perceel nummer], groot 182 m2, dat volgens de huidige gegevens in het Kadaster eigendom is van [erflater 1] (geboren te [geboorteplaats] op [geboortedatum] 1909 en overleden te Aruba op 19 mei 1949) en [erflater 2] (geboren op [geboortedatum] 1855 en overleden op 20 oktober 1928) toe aan [verzoeker], een en ander onder de verplichting om aan de nalatenschappen van de hiervoor genoemde personen een bedrag van Afl. 272.690,- te betalen;
+deelt de eigendom van het langdurig onverdeeld gebleven perceel Zuidstraat 23 te Oranjestad, Aruba, met kadastrale aanduiding 1-A-73, groot 182 m2, dat volgens de huidige gegevens in het Kadaster eigendom is van Marino Urbano MONSON (geboren te Dominicaanse Republiek op 25 mei 1909 en overleden te Aruba op 19 mei 1949) en Jochem PAESCH (geboren op 15 april 1855 en overleden op 20 oktober 1928 toe aan [verzoeker], een en ander onder de verplichting om aan de nalatenschappen van de hiervoor genoemde personen een bedrag van Afl. 272.690,- te betalen;
 
 3.2
 
@@ -231,7 +231,7 @@ bepaalt dat het gedeelte van de koopsom dat toekomt aan de deelgenoten die zich 
 
 3.5
 
-benoemt, voor zover nodig, deurwaarder [deurwaarder] te Aruba als onzijdig persoon als bedoeld in artikel 3:181 BWA die de onbekende deelgenoten vertegenwoordigt, alsmede de personen wier medewerking aan de verdeling en levering vereist is maar die medewerking weigeren;
+benoemt, voor zover nodig, deurwaarder J.P. Locadia te Aruba als onzijdig persoon als bedoeld in artikel 3:181 BWA die de onbekende deelgenoten vertegenwoordigt, alsmede de personen wier medewerking aan de verdeling en levering vereist is maar die medewerking weigeren;
 
 3.6
 
