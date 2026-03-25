@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Tussenuitspraak"
 subject: "Civiel recht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2026:85"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "JERF Actueel 2026/126"]
 ---
 
 # ECLI:NL:OGEAA:2026:85 Gerecht in Eerste Aanleg van Aruba , 25-03-2026 / AUA202502151
