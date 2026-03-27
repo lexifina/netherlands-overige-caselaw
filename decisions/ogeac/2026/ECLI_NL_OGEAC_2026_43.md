@@ -76,7 +76,7 @@ Belanghebbende heeft op 5 februari 2024 een pro forma beroepschrift ingediend te
 
 1.7
 
-De zitting heeft plaatsgevonden op 28 augustus 2025 te Willemstad. Namens belanghebbende zijn verschenen F. Torres-Larmonie en mr. T. Ferbaan. Namens de Inspecteur is mr. S.V. James en M. Drommond verschenen.
+De zitting heeft plaatsgevonden op 28 augustus 2025 te Willemstad. Namens belanghebbende zijn verschenen F. Torres-Larmonie en mr. T. Ferbaan. Namens de Inspecteur is [A] en [B] verschenen.
 
 1.8
 
@@ -91,7 +91,7 @@ Belanghebbende is op 10 mei 2007 naar het recht van Curaçao opgericht. Voorheen
 
 2.2
 
-Onmiddellijk en enig aandeelhouder is de heer [A], geboren op [geboortedatum] (hierna: [A]). [A] is woonachtig op Aruba.
+Onmiddellijk en enig aandeelhouder is de heer [C], geboren op [geboortedatum] (hierna: [C). [C] is woonachtig op Aruba.
 
 2.3
 
@@ -99,11 +99,11 @@ Belanghebbende had in 2018 zo’n 24 personen in loondienst.
 
 2.4 [
 
-A] was in 2018 vanwege zijn naderende pensioenleeftijd, op zoek naar een geschikte bedrijfsopvolger aan wie hij de onderneming kon overdragen. [A] is in contact gekomen met [Y] (hierna: [Y]), een in het Verenigd Koninkrijk gevestigde onderneming die aldaar aan de beurs is genoteerd. [Y] heeft vestigingen in meer dan 90 landen.
+C] was in 2018 vanwege zijn naderende pensioenleeftijd, op zoek naar een geschikte bedrijfsopvolger aan wie hij de onderneming kon overdragen. [C] is in contact gekomen met [Y] (hierna: [Y]), een in het Verenigd Koninkrijk gevestigde onderneming die aldaar aan de beurs is genoteerd. [Y] heeft vestigingen in meer dan 90 landen.
 
 2.5 [
 
-Y] heeft besloten de onderneming van belanghebbende te kopen. De overgang van de onderneming van belanghebbende aan [Y] heeft op 4 juli 2018 plaatsgevonden door middel van een juridische (af)splitsing. Daarbij zijn de vermogensbestanddelen, behoudens het onroerend goed, de daaraan gerelateerde (hyotheek)schulden en de pensioenverplichting van [A], van belanghebbende in eerste instantie onder algemene titel overgegaan naar een nieuw opgerichte rechtspersoon, genaamd [Z] (hierna: [Z]). Vervolgens heeft belanghebbende op 6 september 2018 de aandelen [Z] overgedragen aan [Y] voor initieel een maximale verkoopprijs van NAf 5.250.000. Feitelijk is NAf 4.913.602 ontvangen.
+Y] heeft besloten de onderneming van belanghebbende te kopen. De overgang van de onderneming van belanghebbende aan [Y] heeft op 4 juli 2018 plaatsgevonden door middel van een juridische (af)splitsing. Daarbij zijn de vermogensbestanddelen, behoudens het onroerend goed, de daaraan gerelateerde (hyotheek)schulden en de pensioenverplichting van [C], van belanghebbende in eerste instantie onder algemene titel overgegaan naar een nieuw opgerichte rechtspersoon, genaamd [Z] (hierna: [Z]). Vervolgens heeft belanghebbende op 6 september 2018 de aandelen [Z] overgedragen aan [Y] voor initieel een maximale verkoopprijs van NAf 5.250.000. Feitelijk is NAf 4.913.602 ontvangen.
 
 2.7
 
@@ -215,7 +215,7 @@ Het Gerecht zal als eerste ingaan op het subsidiaire standpunt van belanghebbend
 
 4.8
 
-Naar het oordeel van het Gerecht treft dit door belanghebbende ingenomen standpunt geen doel. Het is immers de bedoeling van belanghebbende (en [Y]) om de onderneming van belanghebbende in afgeslankte vorm, dus zonder het onroerend goed, de daarmee samenhangende schulden en zonder de pensioenverplichting jegens [A], te doen overgaan op [Y]. In plaats van de aandelen in belanghebbende over te dragen aan [Y] is ervoor gekozen om de activa en passiva te doen overgaan op [Y]. Een dergelijke overgang wordt bij wetsfictie in artikel 14C, lid 1, onderdeel b, Lv WB aangemerkt als een overdracht (een vervreemding) van vermogensbestanddelen. Een dergelijke overdracht is in beginsel belast (met winstbelasting), tenzij er sprake is van een te faciliteren juridische (af)splitsing, waarbij voldaan moet worden aan bepaalde wettelijke voorwaarden. Indien in een geval als het onderhavige wordt geoordeeld dat belasting wordt ontgaan of uitgesteld, dan betreft het de Curaçaose (winst)belasting die wordt ontgaan of uitgesteld en niet Arubaanse (inkomsten)belasting.
+Naar het oordeel van het Gerecht treft dit door belanghebbende ingenomen standpunt geen doel. Het is immers de bedoeling van belanghebbende (en [Y]) om de onderneming van belanghebbende in afgeslankte vorm, dus zonder het onroerend goed, de daarmee samenhangende schulden en zonder de pensioenverplichting jegens [C], te doen overgaan op [Y]. In plaats van de aandelen in belanghebbende over te dragen aan [Y] is ervoor gekozen om de activa en passiva te doen overgaan op [Y]. Een dergelijke overgang wordt bij wetsfictie in artikel 14C, lid 1, onderdeel b, Lv WB aangemerkt als een overdracht (een vervreemding) van vermogensbestanddelen. Een dergelijke overdracht is in beginsel belast (met winstbelasting), tenzij er sprake is van een te faciliteren juridische (af)splitsing, waarbij voldaan moet worden aan bepaalde wettelijke voorwaarden. Indien in een geval als het onderhavige wordt geoordeeld dat belasting wordt ontgaan of uitgesteld, dan betreft het de Curaçaose (winst)belasting die wordt ontgaan of uitgesteld en niet Arubaanse (inkomsten)belasting.
 
 Is sprake van het in overwegende mate ontgaan of uitstellen van belastingheffing?
 
@@ -237,7 +237,7 @@ Fiscale begeleiding is niet aan de orde in situaties waarin de facto sprake is v
 
 4.10
 
-In onderdeel 1.2.3 van haar beroepschrift schrijft belanghebbende dat [A] vanwege zijn naderende pensioenleeftijd, reeds enige tijd op zoek was naar een geschikte bedrijfsopvolger aan wie hij de onderneming kon overdragen. Naar het Gerecht begrijpt is tussen partijen niet in geschil dat het uiteindelijke doel van belanghebbende dan ook was de door belanghebbende gedreven onderneming (in afgeslankte vorm) te vervreemden aan een koper. Daarbij dient te worden bedacht dat, vanuit fiscaal perspectief, een dergelijke vervreemding niet goed was voorgesorteerd. [A] hield namelijk de aandelen in belanghebbende rechtstreeks en zou bij verkoop van de aandelen in belanghebbende direct tegen (inkomsten)belastingheffing aanlopen. Bij verkoop van de onderneming door belanghebbende zou belanghebbende direct met winstbelasting worden geconfronteerd.
+In onderdeel 1.2.3 van haar beroepschrift schrijft belanghebbende dat [C] vanwege zijn naderende pensioenleeftijd, reeds enige tijd op zoek was naar een geschikte bedrijfsopvolger aan wie hij de onderneming kon overdragen. Naar het Gerecht begrijpt is tussen partijen niet in geschil dat het uiteindelijke doel van belanghebbende dan ook was de door belanghebbende gedreven onderneming (in afgeslankte vorm) te vervreemden aan een koper. Daarbij dient te worden bedacht dat, vanuit fiscaal perspectief, een dergelijke vervreemding niet goed was voorgesorteerd. [C] hield namelijk de aandelen in belanghebbende rechtstreeks en zou bij verkoop van de aandelen in belanghebbende direct tegen (inkomsten)belastingheffing aanlopen. Bij verkoop van de onderneming door belanghebbende zou belanghebbende direct met winstbelasting worden geconfronteerd.
 
 Uiteindelijk is de onderneming in twee stappen overgegaan op/overgedragen aan een derde ([Y]), te weten via een afsplitsing van de onderneming (in afgeslankte vorm) aan een nieuwe, daartoe opgerichte, vennootschap ([Z]), gevolgd door een verkoop door belanghebbende van die nieuw opgerichte vennootschap aan die derde. Deze gevolgde weg resulteert uiteindelijk, gesteld dat belanghebbende in deze procedure in het gelijk wordt gesteld, in een volledig (onder de deelnemingsvrijstelling) vrijgestelde transactie.
 
@@ -255,7 +255,7 @@ Belanghebbende heeft als tegenbewijs het volgende aangevoerd:
 
 - [ Y] heeft aangegeven alleen de onderneming zonder het onroerend goed over te willen nemen. Belanghebbende had verschillende opties voor het afzonderen van het onroerend goed, maar omdat de bank niet zou meewerken aan de overdracht van het onroerend goed naar een andere (nieuw op te richten) vennootschap is ervoor gekozen om de onderneming af te splitsen en het pand achter te laten in belanghebbende.
 
-- een activa-/passiva transactie van belanghebbende naar [Y] was niet mogelijk, omdat dan de klanten daarvoor hun instemming zouden moeten geven, hetgeen ertoe had kunnen leiden dat contracten heronderhandeld zouden moeten worden. Dit kon door een juridische splitsing worden voorkomen, omdat de contracten dan van rechtswege onder algemene titel zouden overgaan. In dit verband is verder aangevoerd dat [A] na de overname in de onderneming zou blijven werken, zodat de targets zouden worden behaald en de maximale verkoopprijs zou kunnen worden gerealiseerd.
+- een activa-/passiva transactie van belanghebbende naar [Y] was niet mogelijk, omdat dan de klanten daarvoor hun instemming zouden moeten geven, hetgeen ertoe had kunnen leiden dat contracten heronderhandeld zouden moeten worden. Dit kon door een juridische splitsing worden voorkomen, omdat de contracten dan van rechtswege onder algemene titel zouden overgaan. In dit verband is verder aangevoerd dat [C] na de overname in de onderneming zou blijven werken, zodat de targets zouden worden behaald en de maximale verkoopprijs zou kunnen worden gerealiseerd.
 
 - dat als ten tijde van de transactie al vaststaat dat de aandelen in de verkrijgende rechtspersoon zullen worden verkocht, dit nog niet hoeft te betekenen dat de splitsingsfaciliteit niet kan worden toegepast. Belanghebbende verwijst in dit verband naar het Bulkgasarrest, ECLI:NL:HR:2006:AY8201 en het Tankstations-arrest, ECLI:NL:HR:2019:1297.
 
