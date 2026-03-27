@@ -107,7 +107,7 @@ Op 15 januari 2024 heeft belanghebbende daartegen beroep ingesteld. Belanghebben
 
 1.15
 
-Op 11 september 2024 is het beroep tegen de naheffingsaanslag premie AVBZ 2017 op zitting behandeld. Namens belanghebbende is in Sint Maarten verschenen mr. E.A. Jansen, verbonden aan [X]. Namens de Inspecteur is verschenen M.M.F. van Grinsven-Trinidad LL.M en L.J.B. Vanblarcum Msc. Ter zitting is door het Gerecht vastgesteld dat de aan belanghebbende opgelegde naheffingsaanslag en boete premie AVBZ 2017 onderdeel uitmaken van een reeks naheffingsaanslagen en boetebeschikkingen, waaronder de onder 1.1 tot en met 1.3 genoemde naheffingsaanslagen en boetebeschikkingen. In overleg met partijen is besloten om alle nog lopende zaken van belanghebbende op een nader te bepalen datum in één keer te behandelen. Daarbij zijn tevens met partijen afspraken gemaakt over termijnen waarbinnen zij stukken zullen aanleveren. De behandeling van het beroep tegen de naheffingsaanslag en boete premie AVBZ 2017 is aangehouden tot die nader te bepalen datum.
+Op 11 september 2024 is het beroep tegen de naheffingsaanslag premie AVBZ 2017 op zitting behandeld. Namens belanghebbende is in Sint Maarten verschenen mr. E.A. Jansen, verbonden aan [X]. Namens de Inspecteur is verschenen [K] LL.M en [L] Msc. Ter zitting is door het Gerecht vastgesteld dat de aan belanghebbende opgelegde naheffingsaanslag en boete premie AVBZ 2017 onderdeel uitmaken van een reeks naheffingsaanslagen en boetebeschikkingen, waaronder de onder 1.1 tot en met 1.3 genoemde naheffingsaanslagen en boetebeschikkingen. In overleg met partijen is besloten om alle nog lopende zaken van belanghebbende op een nader te bepalen datum in één keer te behandelen. Daarbij zijn tevens met partijen afspraken gemaakt over termijnen waarbinnen zij stukken zullen aanleveren. De behandeling van het beroep tegen de naheffingsaanslag en boete premie AVBZ 2017 is aangehouden tot die nader te bepalen datum.
 
 1.16
 
@@ -149,7 +149,7 @@ Op 16 april 2025 heeft belanghebbende een conclusie van repliek ingediend en op 
 
 1.23
 
-Op 4 juni 2025 is het beroep tegen alle onder 1.16 genoemde naheffingsaanslagen en boetebeschikkingen op zitting behandeld. Namens belanghebbende is verschenen mr. E.A. Jansen, verbonden aan [X] en [A] van [Y], het kantoor dat de administratie voor belanghebbende verzorgt. Namens de Inspecteur is verschenen mr. M.M.F. van Grinsven-Trinidad LL.M en L.J.B. Vanblarcum Msc, alsmede V. Medema, namens de SBAB.
+Op 4 juni 2025 is het beroep tegen alle onder 1.16 genoemde naheffingsaanslagen en boetebeschikkingen op zitting behandeld. Namens belanghebbende is verschenen mr. E.A. Jansen, verbonden aan [X] en [A] van [Y], het kantoor dat de administratie voor belanghebbende verzorgt. Namens de Inspecteur is verschenen mr. [K] LL.M en [L] Msc, alsmede [M], namens de SBAB.
 
 2
 Feiten
@@ -1392,7 +1392,7 @@ Ter zitting heeft de Inspecteur verklaard dat op basis van de Service Level Agre
 
 4.63
 
-Bij e-mail van 3 juni 2025 heeft de Directeur van de SBAB, de heer S. Casper het volgende verklaard, voor zover van belang.
+Bij e-mail van 3 juni 2025 heeft de Directeur van de SBAB, de heer [N] het volgende verklaard, voor zover van belang.
 
 “Hierbij verklaar ik als directeur van de Stichting Belasting Accountant Bureau (SBAB) dat de uitgiften van boekenonderzoeken aan de controlemedewerkers door mij gebeurt of namens mij door de teammanagers of technische managers. Als bijlage stuur ik je de uitgegeven opdracht en afrondingsformulier om jet systeem Bisbab.
 
@@ -1404,9 +1404,9 @@ De regelgeving (richtlijnen) omtrent het uitgeven van boekenonderzoeken, het con
 
 Naar het oordeel van het Gerecht is de Directeur van de SBAB bij Landsverordening (artikel 48, lid 2 van de ALL) als bevoegde persoon aangewezen om boekenonderzoeken uit te voeren op Sint Maarten. Dit leidt het Gerecht af uit de hiervoor vermelde regelgeving, de verfijningen die daarop zijn aangebracht en de dagelijkse praktijk. Daarnaast kan de Directeur de aan hem toegekende bevoegdheid ondermandateren aan door hem aangewezen personen.
 
-Ter zitting heeft mevrouw Medema (coördinator boekenonderzoeken Sint Maarten) op haar laptop de mandaatregister-lijst 2013 getoond. De lijst bevat de volgende kolommen: team – geslacht – medewerker – achternaam – voorvoegsel – voorletters – voornaam – datum in dienst SBAB – datum mandatering – datum uit dienst (indien van toepassing).
+Ter zitting heeft mevrouw [M] (coördinator boekenonderzoeken Sint Maarten) op haar laptop de mandaatregister-lijst 2013 getoond. De lijst bevat de volgende kolommen: team – geslacht – medewerker – achternaam – voorvoegsel – voorletters – voornaam – datum in dienst SBAB – datum mandatering – datum uit dienst (indien van toepassing).
 
-Op de lijst komen alle namen van de ondergemandateerde personen voor, aldus mevrouw Medema. Op de lijst is ook te zien welke medewerkers na 2013 zijn toegevoegd, alsook is aangetekend de medewerkers die uit dienst zijn getreden. Op de lijst komen ook de namen van [J] en van mevrouw Medema voor.
+Op de lijst komen alle namen van de ondergemandateerde personen voor, aldus mevrouw [M]. Op de lijst is ook te zien welke medewerkers na 2013 zijn toegevoegd, alsook is aangetekend de medewerkers die uit dienst zijn getreden. Op de lijst komen ook de namen van [J] en van mevrouw [M] voor.
 
 Het Gerecht is van oordeel dat met hetgeen de Inspecteur ter zitting heeft getoond aannemelijk is gemaakt dat de Directeur zijn bevoegdheid heeft ondergemandateerd aan (onder andere) [J] en dat de door hem uitgevoerde boekenonderzoeken derhalve rechtsgeldig hebben plaatsgevonden. Aan de eis van belanghebbende, dat  ter zitting een papieren lijst had moeten worden overgelegd, gaat het Gerecht voorbij, mede omdat artikel 48, lid 2 van de ALL geen eisen stelt aan de vorm van ondermandatering.
 
