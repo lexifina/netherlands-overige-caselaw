@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Bodemzaak"
 subject: "Bestuursrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAC:2026:42"
-published_in: ["Rechtspraak.nl"]
+published_in: ["Rechtspraak.nl", "PJ 2026/60"]
 ---
 
 # ECLI:NL:OGEAC:2026:42 Gerecht in eerste aanleg van Curaçao , 27-03-2026 / CUR202504066
