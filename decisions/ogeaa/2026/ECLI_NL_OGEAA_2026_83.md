@@ -9,7 +9,7 @@ type: "uitspraak"
 procedure: "Eerste aanleg - enkelvoudig"
 subject: "Bestuursrecht; Belastingrecht"
 source_url: "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:OGEAA:2026:83"
-published_in: ["Rechtspraak.nl", "CFN 2026/27 met annotatie van -"]
+published_in: ["Rechtspraak.nl", "CFN 2026/27 met annotatie van -", "Douanerechtspraak 2026/58"]
 ---
 
 # ECLI:NL:OGEAA:2026:83 Gerecht in Eerste Aanleg van Aruba , 13-04-2026 / AUA202403266
