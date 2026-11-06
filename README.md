@@ -1,5 +1,7 @@
 # Dutch case law: other courts (Caribbean courts and others)
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of other courts (Caribbean courts and others), Netherlands, which global-law reads at `netherlands/overige/caselaw/`.
+
 Every decision of other courts (Caribbean courts and others) that the Rechtspraak publishes with its text, as a git history: one file per decision, one
 commit per decision, dated the day it was decided. 20,123 decisions from 1977-09-27 to 2026-11-06. Part of
 [lexifina/global-law](https://github.com/lexifina/global-law) at `netherlands/overige/caselaw`.
